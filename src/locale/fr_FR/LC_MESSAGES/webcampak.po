@@ -1,0 +1,1007 @@
+# French translations for PACKAGE package
+# Traductions françaises du paquet PACKAGE.
+# Copyright (C) 2011 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Francois <francois@webcampak.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-27 16:31+0200\n"
+"PO-Revision-Date: 2011-03-27 17:00+0200\n"
+"Last-Translator: Francois <francois@webcampak.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: wpakCaptureManagement.py:63
+msgid "Authorization: Requesting capture slot"
+msgstr "Autorisation: Demande de capture"
+
+#: wpakCaptureManagement.py:66
+msgid "Authorization: Capture manually disabled via administration panel"
+msgstr ""
+"Autorisation: Capture désactivée manuellement via l'interface "
+"d'administration"
+
+#: wpakCaptureManagement.py:90
+msgid "Authorization: Refused: Outside pre-configured capture slot"
+msgstr "Autorisation: Refusée: Capture en dehors de la plage horaire"
+
+#: wpakCaptureManagement.py:103
+#, python-format
+msgid "Authorization: Last capture %(TimeSinceLastCapture)s seconds ago"
+msgstr ""
+"Autorisation: Dernière capture il y a %(TimeSinceLastCapture)s secondes"
+
+#: wpakCaptureManagement.py:107
+#, python-format
+msgid ""
+"Authorization: Minimum capture interval: %(MinimumCaptureValue)s seconds"
+msgstr ""
+"Autorisation: Intervale de capture minimale autorisée: "
+"%(MinimumCaptureValue)s secondes"
+
+#: wpakCaptureManagement.py:109
+msgid "Authorization: Capture slot available"
+msgstr "Autorisation: Capture autorisée"
+
+#: wpakCaptureManagement.py:112
+msgid "Authorization: Capture slot refused, not enough time since last capture"
+msgstr ""
+"Autorisation: Capture refusée, il ne s'est pas écoulé assez de temps depuis "
+"la dernière capture"
+
+#: wpakCaptureManagement.py:115
+msgid "Authorization: Capture slot available, no captures previously"
+msgstr ""
+"Autorisation: Capture autorisée, il n'y a pas eu de captures précédemment"
+
+#: wpakCaptureManagement.py:127
+msgid ""
+"Authorization: Motion: Capturing via cron jobs is not allowed, captures are "
+"only allowed if started by motion detection"
+msgstr ""
+"Autorisation: Motion: La capture automatisée (cron) n'est pas autorisée, "
+"seule les captures initiées par motion sont autorisées"
+
+#: wpakCaptureManagement.py:130
+msgid "Authorization: Motion: Motion detection module"
+msgstr "Autorisation: Motion: Module de détection de mouvements"
+
+#: wpakCaptureManagement.py:131
+#, python-format
+msgid ""
+"Authorization: Motion: Capture device: %(CaptureDevice)s "
+"(%(CaptureDeviceWidth)sx%(CaptureDeviceHeight)s)"
+msgstr ""
+"Autorisation: Motion: Périphérique de capture: %(CaptureDevice)s "
+"(%(CaptureDeviceWidth)sx%(CaptureDeviceHeight)s)"
+
+#: wpakCaptureManagement.py:132
+#, python-format
+msgid "Authorization: Motion: Threshold: %(CaptureDeviceThreshold)s pixels"
+msgstr ""
+"Autorisation: Motion: Seuil de capture: %(CaptureDeviceThreshold)s pixels"
+
+#: wpakCaptureManagement.py:139
+#, python-format
+msgid ""
+"Authorization: Motion: Last capture related to motion detection "
+"%(TimeSinceLastMotionCapture)s seconds ago"
+msgstr ""
+"Autorisation: Motion: Dernier mouvement ayant déclenché une capture il y a "
+"%(TimeSinceLastMotionCapture)s secondes"
+
+#: wpakCaptureManagement.py:143
+#, python-format
+msgid ""
+"Authorization: Motion: Minimum allowed frequency: "
+"%(MinimumMotionCaptureValue)s seconds"
+msgstr ""
+"Autorisation: Motion: Fréquence minimale de capture: "
+"%(MinimumMotionCaptureValue)s secondes"
+
+#: wpakCaptureManagement.py:145
+msgid "Authorization: Motion: Capture allowed, recording timestamp"
+msgstr "Autorisation: Motion: Capture autorisée, enregistrement du timestamp"
+
+#: wpakCaptureManagement.py:151
+msgid ""
+"Authorization: Motion: Capture not allowed, not enough time since last "
+"capture"
+msgstr ""
+"Autorisation: Motion: Capture non autorisée, il ne s'est pas écoulé "
+"suffisamment de temps depuis la dernière capture"
+
+#: wpakCaptureManagement.py:155
+msgid "Authorization: Motion: Capture not allowed, incorrect timestamp"
+msgstr "Autorisation: Motion: Capture non autorisée, timestamp incorrect"
+
+#: wpakCaptureManagement.py:161
+msgid "Authorization: Motion: Capture allowed, no previous capture found"
+msgstr ""
+"Autorisation: Motion: Capture autorisée, il n'y a pas eu de captures "
+"précédente"
+
+#: wpakCaptureManagement.py:169
+msgid "Authorization: Motion: Capture blocked by motion detection system"
+msgstr ""
+"Autorisation: Motion: Capture bloquée par le système de détection de "
+"mouvements"
+
+#: wpakCaptureManagement.py:190
+msgid "ImageMagick: Cropping picture"
+msgstr "ImageMagick: Découpe de l'image"
+
+#: wpakCaptureManagement.py:191
+msgid "IM> Recadrage"
+msgstr ""
+
+#: wpakCaptureManagement.py:194
+msgid "ImageMagick: Cropping disabled"
+msgstr "ImageMagick: Découpe désactivée"
+
+#: wpakCaptureManagement.py:197
+msgid "ImageMagick: Insert Watermark"
+msgstr "ImageMagick: Ajout d'un Watermark"
+
+#: wpakCaptureManagement.py:198
+msgid "IM> Watermark"
+msgstr ""
+
+#: wpakCaptureManagement.py:201
+msgid "ImageMagick: Watermark disabled"
+msgstr "ImageMagick: Watermark désactivé"
+
+#: wpakCaptureManagement.py:204
+msgid "ImageMagick: Insert Legend"
+msgstr "ImageMagick: Ajout d'une légende"
+
+#: wpakCaptureManagement.py:205
+msgid "IM> Legende"
+msgstr ""
+
+#: wpakCaptureManagement.py:208
+msgid "ImageMagick: Legend disabled"
+msgstr "ImageMagick: Légende désactivée"
+
+#: wpakCaptureManagement.py:211
+msgid "ImageMagick: Insert Temperature"
+msgstr "ImageMagick: Ajout température"
+
+#: wpakCaptureManagement.py:221
+msgid "IM> Temperature"
+msgstr ""
+
+#: wpakCaptureManagement.py:224
+msgid "ImageMagick: Temperature disabled"
+msgstr "ImageMagick: Température désactivée"
+
+#: wpakCaptureManagement.py:227
+msgid "ImageMagick: Insert Lumniosity"
+msgstr "ImageMagick: Ajout luminosité"
+
+#: wpakCaptureManagement.py:237
+msgid "IM> Luminosity"
+msgstr ""
+
+#: wpakCaptureManagement.py:240
+msgid "ImageMagick: Luminosity disabled"
+msgstr "ImageMagick: Luminosité désactivée"
+
+#: wpakCaptureManagement.py:243
+msgid "ImageMagick: Resize archive"
+msgstr "ImageMagick: Redimensionnement archive"
+
+#: wpakCaptureManagement.py:244
+msgid "IM> Redim. Archive"
+msgstr ""
+
+#: wpakCaptureManagement.py:247
+msgid "ImageMagick: Resizing disabled"
+msgstr "ImageMagick: Redimensionnement désactivé"
+
+#: wpakCaptureManagement.py:252
+#, python-format
+msgid "ImageMagick: Hotlink: %(Hotlinkfile)s"
+msgstr "ImageMagick: Hotlink: %(Hotlinkfile)s"
+
+#: wpakCaptureManagement.py:253 wpakCapture.py:101
+msgid "IM> Hotlink "
+msgstr ""
+
+#: wpakCaptureManagement.py:257 wpakCapture.py:106
+msgid "FTP> Hotlink "
+msgstr ""
+
+#: wpakCaptureManagement.py:258
+#, python-format
+msgid "ImageMagick: Hotlink file upload: %(Hotlinkfile)s"
+msgstr "ImageMagick: Upload du fichier hotlink: %(Hotlinkfile)s"
+
+#: wpakCaptureManagement.py:261
+#, python-format
+msgid "ImageMagick: Hotlink: %(Hotlinkfile)s disabled"
+msgstr "ImageMagick: Hotlink: %(Hotlinkfile)s désactivé"
+
+#: wpakCaptureManagement.py:263
+msgid "ImageMagick: Sensos graph creation"
+msgstr ""
+"ImageMagick: Création du graphique à partir de la base de données des "
+"capteurs"
+
+#: wpakCaptureManagement.py:277
+msgid "ImageMagick: Using full size picture as hotlink"
+msgstr "ImageMagick: Utilisation de l'image pleine taille en tant que hotlink"
+
+#: wpakCaptureManagement.py:281
+msgid "Archive: Saving picture into archives"
+msgstr "Archive: Sauvegarde de l'image dans les archives"
+
+#: wpakCaptureManagement.py:295
+msgid "> Upload FTP"
+msgstr ""
+
+#: wpakCaptureManagement.py:296
+msgid "FTP: Upload Archive"
+msgstr "FTP: Upload Archive"
+
+#: wpakCaptureManagement.py:299
+msgid "> FTP: Succes"
+msgstr ""
+
+#: wpakCaptureManagement.py:301
+msgid "> FTP: Echec"
+msgstr ""
+
+#: wpakCaptureManagement.py:314
+msgid "DiskManagement: Suppression fichier temporaire"
+msgstr "DiskManagement: Delete temporary file"
+
+#: wpakCaptureManagement.py:335
+#, python-format
+msgid "Capture Error: Current error count: %(CurrentErrorCount)s"
+msgstr "Erreur Capture: Compteur d'erreur: %(CurrentErrorCount)s"
+
+#: wpakCaptureManagement.py:347
+msgid ""
+"Capture Error: The camera has already been restarted... no additionnal "
+"restarts planned"
+msgstr ""
+"Erreur Capture: L'appareil a déjà été redémarré ... Il n'y aura pas de "
+"redémarrage complémentaire"
+
+#: wpakCaptureManagement.py:349
+#, python-format
+msgid ""
+"Capture Error: Error count %(SendEmailErrorCount)s/%(EmailPhidgetFailure)s"
+msgstr ""
+"Erreur Capture: Compteur d'erreurs: %(SendEmailErrorCount)s/"
+"%(EmailPhidgetFailure)s"
+
+#: wpakCapture.py:96
+msgid "Erreur Capture - "
+msgstr "Erreur Capture"
+
+#: wpakCapture.py:100
+#, python-format
+msgid "Failed Capture: ImageMagick: Hotlink: %(Hotlinkfile)s"
+msgstr "Erreur Capture: ImageMagick: Hotlink: %(Hotlinkfile)s"
+
+#: wpakCapture.py:107
+#, python-format
+msgid "Failed Capture: ImageMagick: Upload hotlink file: %(Hotlinkfile)s"
+msgstr "Erreur Capture: ImageMagick: Upload fichier hotlink: %(Hotlinkfile)s"
+
+#: wpakCapture.py:110
+#, python-format
+msgid "Failed Capture: ImageMagick: Hotlink: %(Hotlinkfile)s disabled"
+msgstr "Erreur Capture: ImageMagick: Hotlink: %(Hotlinkfile)s désactivé"
+
+#: wpakCapture.py:133
+#, python-format
+msgid "Sensors: Temperature %(TemperatureSensor)s degrees Celcius"
+msgstr "Capteurs: Température %(TemperatureSensor)s degrees Celcius"
+
+#: wpakCapture.py:138
+#, python-format
+msgid "Sensors: Luminosity %(LightSensor)s Lux"
+msgstr "Capteurs: Luminosité %(LightSensor)s Lux"
+
+#: wpakCapture.py:160
+msgid "Capture: Starting the capture process"
+msgstr "Capture: Demarre processus capture"
+
+#: wpakCapture.py:164
+msgid "Capture: Previous capture failed, looking for a camera"
+msgstr ""
+"Capture: Il y avait une erreur lors de la precedente capture, recherche "
+"d'appareils"
+
+#: wpakCapture.py:166
+msgid "> Capt. Photo"
+msgstr ""
+
+#: wpakCapture.py:169
+msgid "> Capt. Webcam"
+msgstr ""
+
+#: wpakCapture.py:172
+msgid "> Capt. IPCam"
+msgstr ""
+
+#: wpakCapture.py:175
+msgid "> Capt. WebFile"
+msgstr ""
+
+#: wpakCapture.py:182
+msgid "Capture: Capture failed: 4 seconds break"
+msgstr "Capture: Echec capture: pause 4 secondes"
+
+#: wpakCapture.py:183 wpakCapture.py:185
+msgid "[__ERROR__]"
+msgstr ""
+
+#: wpakCapture.py:183
+msgid "> Capture Failed"
+msgstr ""
+
+#: wpakCapture.py:185
+msgid "> Crea. Fail. Pic."
+msgstr ""
+
+#: wpakCapture.py:187
+msgid "Capture: Creation failed catpure"
+msgstr "Capture: Creation de la capture "
+
+#: wpakCapture.py:212
+#, python-format
+msgid "Capture: Overall capture time: %(TotalCaptureTime)s seconds"
+msgstr ""
+
+#: wpakCapture.py:214
+msgid "-----------------------------------------------------------------------"
+msgstr ""
+
+#: wpakCapture.py:216
+msgid "Authorization: Capture not allowed"
+msgstr ""
+
+#: wpakDebug.py:76
+#, python-format
+msgid ""
+"Debug: Purge: Deletion previous log file, max size allowed is "
+"%(MaxLogFileSize)s bytes"
+msgstr ""
+
+#: wpakEmailClass.py:64
+#, python-format
+msgid ""
+"Email: Preparing to send an email to: %(To)s from: %(From)s using Server:"
+"Port: %(Server)s:%(ServerPort)s"
+msgstr ""
+
+#: wpakEmailClass.py:65
+#, python-format
+msgid "Email: Subject: %(Subject)s"
+msgstr ""
+
+#: wpakEmailClass.py:74
+#, python-format
+msgid "Email: Adding enclosed file: %(FileName)s.zip"
+msgstr ""
+
+#: wpakErrorManagement.py:60
+msgid ""
+"Camera Lookup: Capture previously failed, checking USB port of the camera"
+msgstr ""
+
+#: wpakErrorManagement.py:70
+#, python-format
+msgid "Camera Lookup: USB Port: %(USBPort)s"
+msgstr ""
+
+#: wpakErrorManagement.py:73
+#, python-format
+msgid "Camera Lookup: Camera: %(USBCamera)s"
+msgstr ""
+
+#: wpakErrorManagement.py:74
+#, python-format
+msgid "Camera Lookup: Camera in config file: %(USBCameraConfig)s"
+msgstr ""
+
+#: wpakErrorManagement.py:75
+#, python-format
+msgid "Camera Lookup: USB Port configured: %(USBPortConfigured)s"
+msgstr ""
+
+#: wpakErrorManagement.py:76
+#, python-format
+msgid "Camera Lookup: USB Port detected: %(USBPordDetected)s"
+msgstr ""
+
+#: wpakErrorManagement.py:78 wpakErrorManagement.py:92
+msgid "Camera Lookup: Modification of the configuration file"
+msgstr ""
+
+#: wpakErrorManagement.py:80 wpakErrorManagement.py:94
+#, python-format
+msgid "Camera Lookup: New USB Port configured: %(USBPortConfigured)s"
+msgstr ""
+
+#: wpakErrorManagement.py:82 wpakErrorManagement.py:96
+msgid "Camera Lookup: Unable to modify the configuration file"
+msgstr ""
+
+#: wpakErrorManagement.py:84
+msgid "Camera Lookup: Unknown camera"
+msgstr ""
+
+#: wpakErrorManagement.py:87
+#, python-format
+msgid ""
+"Camera Lookup: Configured camera: Port: %(USBPortConfigured)s, Owner: "
+"%(OwnerConfigured)s"
+msgstr ""
+
+#: wpakErrorManagement.py:88
+#, python-format
+msgid ""
+"Camera Lookup: Detected Camera: Port: %(USBPortConfigured)s, Owner: "
+"%(OwnerConfigured)s"
+msgstr ""
+
+#: wpakErrorManagement.py:90
+msgid "Camera Lookup: Camera owner identified"
+msgstr ""
+
+#: wpakErrorManagement.py:108
+msgid "Capture Error: Error email already sent"
+msgstr ""
+
+#: wpakErrorManagement.py:110
+#, python-format
+msgid ""
+"Capture Error: Current error count: %(SendEmailErrorCount)s/"
+"%(EmailAlertFailure)s"
+msgstr ""
+
+#: wpakErrorManagement.py:113
+msgid "Capture Error: Preparation of an email alert about the error"
+msgstr ""
+
+#: wpakErrorManagement.py:114
+#, python-format
+msgid "%(CurrentHostname)s: Error while capture source: %(CurrentSourceID)s"
+msgstr ""
+
+#: wpakFileManager.py:87
+#, python-format
+msgid ""
+"Disk Management: Automatically deleting pictures in %(PicturesDirectory)s "
+"directory after %(Days)s days"
+msgstr ""
+
+#: wpakFileManager.py:93
+#, python-format
+msgid ""
+"Disk Management: Directory %(PicturesDirectory)s is %(PicturesDirectoryAge)s "
+"days old"
+msgstr ""
+
+#: wpakFileManager.py:104
+#, python-format
+msgid ""
+"Disk Management: Automatically deleting pictures in %(PicturesDirectory)s "
+"directory if global size is greater than %(PicturesDirectorySize)s Mo"
+msgstr ""
+
+#: wpakFileManager.py:105
+#, python-format
+msgid ""
+"Disk Management: Global size of %(PicturesDirectory)s directory is "
+"%(PicturesDirectorySize)s Mo"
+msgstr ""
+
+#: wpakFileManager.py:111
+#, python-format
+msgid ""
+"Disk Management: %(PicturesDirectory)s directory size is "
+"%(PicturesDirectorySize)s Mo, deleting ..."
+msgstr ""
+
+#: wpakFileManager.py:113
+#, python-format
+msgid ""
+"Disk Management: %(PicturesDirectory)s directory size is "
+"%(PicturesDirectorySize)s Mo"
+msgstr ""
+
+#: wpakFileManager.py:146
+#, python-format
+msgid ""
+"Capture: Check File: capture failed, incorrecte size: %(IncorrectSize)s/"
+"%(TargetSize)s"
+msgstr ""
+
+#: wpakFTPClass.py:52
+#, python-format
+msgid "FTP: %(currentdir)s directory does not exist, creation ..."
+msgstr ""
+
+#: wpakFTPClass.py:64
+#, python-format
+msgid ""
+"FTP: Server: %(FTPServer)s Directory:  %(FTPDirectory)s Filename: "
+"%(FTPFilename)s Active: %(FTPActive)s Login: %(FTPUsername)s "
+msgstr ""
+
+#: wpakFTPClass.py:69
+msgid "Error: FTP: Connection creation failed, exiting ..."
+msgstr ""
+
+#: wpakFTPClass.py:74
+msgid "Error: FTP: Connection to the server (login/password issue) failed"
+msgstr ""
+
+#: wpakFTPClass.py:82
+msgid "Error: FTP: Activation Active/Passive mode"
+msgstr ""
+
+#: wpakFTPClass.py:87 wpakFTPClass.py:92
+#, python-format
+msgid "Error: FTP: Creation of  %(FTPDirectory)s directory"
+msgstr ""
+
+#: wpakFTPClass.py:101
+msgid "Error: FTP: File transfer failed"
+msgstr ""
+
+#: wpakGphoto.py:60
+#, python-format
+msgid "Capture: Gphoto: Precision camera port: %(CameraPort)s"
+msgstr ""
+
+#: wpakGphoto.py:66
+msgid "Capture: Gphoto: Debug mode activation"
+msgstr ""
+
+#: wpakGphoto.py:70
+msgid "Capture: Gphoto: Start Capture"
+msgstr ""
+
+#: wpakGphoto.py:81
+msgid "Error: Unable to locate gphoto2 binary"
+msgstr ""
+
+#: wpakGphoto.py:93
+msgid "Port Scanning: Gphoto busy"
+msgstr ""
+
+#: wpakGraph.py:91
+msgid "Temperature (degC)"
+msgstr ""
+
+#: wpakGraph.py:95
+msgid "Luminosite (Lux)"
+msgstr ""
+
+#: wpakGraph.py:102
+#, python-format
+msgid "Journee du %(DisplayDate)s"
+msgstr ""
+
+#: wpakImageMagick.py:50
+#, python-format
+msgid "Imagemagick: Resize: %(NewSize)s to file: %(NewSizeFile)s"
+msgstr ""
+
+#: wpakImageMagick.py:56 wpakImageMagick.py:74
+msgid "Error: Convert binary (ImageMagick) not found"
+msgstr ""
+
+#: wpakImageMagick.py:70
+#, python-format
+msgid ""
+"Imagemagick: Crop: Zone size: %(Width)sx%(Height)s Position: x: %(XPos)s y: "
+"%(YPos)s"
+msgstr ""
+
+#: wpakImageMagick.py:87
+#, python-format
+msgid ""
+"Imagemagick: Watermark: %(Watermarkfile)s Position: x: %(XPos)s y: %(YPos)s "
+"Transparency: %(Dissolve)s percent"
+msgstr ""
+
+#: wpakImageMagick.py:91 wpakImageMagick.py:104
+msgid "Error: Composite binary (ImageMagick) not found"
+msgstr ""
+
+#: wpakImageMagick.py:100
+#, python-format
+msgid ""
+"Imagemagick: Text: %(Text)s Font: %(Cfgimgtextfont)s Gravity: "
+"%(Cfgimgtextgravity)s"
+msgstr ""
+
+#: wpakIPCam.py:52
+#, python-format
+msgid "Catpure: IPCam: Entering the process, template: %(Template)s"
+msgstr ""
+
+#: wpakIPCam.py:68
+#, python-format
+msgid "Catpure: IPCam: Processing %(File)s file Date: %(Date)s"
+msgstr ""
+
+#: wpakPhidget.py:63
+msgid "[_CALIBRAGE_]"
+msgstr ""
+
+#: wpakPhidget.py:89 wpakPhidget.py:100 wpakPhidget.py:118
+msgid "Phidget: Missing device"
+msgstr ""
+
+#: wpakPhidget.py:148
+msgid "Phidget: Shutting down the camera (power socket cut)"
+msgstr ""
+
+#: wpakPhidget.py:149 wpakPhidget.py:154
+msgid "-- Camera Error --"
+msgstr ""
+
+#: wpakPhidget.py:149
+msgid "5 sec. Pwr cut"
+msgstr ""
+
+#: wpakPhidget.py:152
+msgid "Phidget: 5 seconds break"
+msgstr ""
+
+#: wpakPhidget.py:154
+msgid "Restart Camera"
+msgstr ""
+
+#: wpakPhidget.py:157
+msgid "Phidget: Powering on the Camera (power socket uncut)"
+msgstr ""
+
+#: wpakRtsp.py:47
+#, python-format
+msgid "Catpure: RTSP: Starting capture process, URL: %(URL)s "
+msgstr ""
+
+#: wpakVideoManagement.py:63 wpakVideoManagement.py:66
+#: wpakVideoManagement.py:69 wpakVideoManagement.py:72
+#, python-format
+msgid "Video: Error: File exists: %(File)s "
+msgstr ""
+
+#: wpakVideoManagement.py:77
+msgid "Video: Creation manually disabled ... Cancelling ..."
+msgstr ""
+
+#: wpakVideoManagement.py:84
+msgid "Video: Source disabled ... Cancelling ..."
+msgstr ""
+
+#: wpakVideoManagement.py:87
+msgid "Video: Error: No video format selected ... Cancelling ..."
+msgstr ""
+
+#: wpakVideo.py:87
+#, python-format
+msgid "Video: ImageMagick: Adding sketch effect to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:90
+#, python-format
+msgid "Video: ImageMagick: Adding tiltshift effect to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:93
+#, python-format
+msgid "Video: ImageMagick: Adding charcoal effect to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:96
+#, python-format
+msgid "Video: ImageMagick: Adding colorin effect to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:100
+#, python-format
+msgid "Video: ImageMagick: Adding Watermark to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:104
+#, python-format
+msgid "Video: ImageMagick: Adding Legend to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:108
+#, python-format
+msgid "Video: ImageMagick: Adding Temperature to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:122
+msgid "Video: Error getting temperature"
+msgstr ""
+
+#: wpakVideo.py:124
+msgid ""
+"Video: ImageMagick: Unable to insert temperature, no sensors values "
+"available at the picture's date and time"
+msgstr ""
+
+#: wpakVideo.py:127
+#, python-format
+msgid "Video: ImageMagick: Adding Luminosity to: %(File)s "
+msgstr ""
+
+#: wpakVideo.py:141
+msgid "Video: Error getting luminosity"
+msgstr ""
+
+#: wpakVideo.py:143
+msgid ""
+"Video: ImageMagick: Unable to insert luminosity, no sensors values available "
+"at the picture's date and time"
+msgstr ""
+
+#: wpakVideo.py:146
+#, python-format
+msgid "Video: ImageMagick: Resizing: %(File)s to %(Size)s"
+msgstr ""
+
+#: wpakVideo.py:153
+#, python-format
+msgid "Mencoder: Video compression, pass: %(Pass)s"
+msgstr ""
+
+#: wpakVideo.py:154
+#, python-format
+msgid "Mencoder: Source: %(VideoSourceFiles)s"
+msgstr ""
+
+#: wpakVideo.py:155
+#, python-format
+msgid "Mencoder: Destination: %(VideoDestinationFile)s"
+msgstr ""
+
+#: wpakVideo.py:183
+#, python-format
+msgid "Video: Flash: Creation of the MP4 video file: %(FlashFile)s"
+msgstr ""
+
+#: wpakVideo.py:193
+#, python-format
+msgid "Video: Flash: Inserting markers on MP4 video file: %(FlashFile)s"
+msgstr ""
+
+#: wpakVideo.py:201
+#, python-format
+msgid "Video: Flash: Proper file size: %(FlashFile)s"
+msgstr ""
+
+#: wpakVideo.py:204
+#, python-format
+msgid "Video: Flash: Invalid file size: %(FlashFile)s"
+msgstr ""
+
+#: wpakVideo.py:207
+msgid ""
+"Video: Flash: Creation of a preview pictures, located 5 seconds from the "
+"beginning of the video"
+msgstr ""
+
+#: wpakVideo.py:215
+msgid "Video: Flash: Preview successfully created"
+msgstr ""
+
+#: wpakVideo.py:217
+msgid ""
+"Video: Flash: Preview failed to be created, trying to create a new one "
+"located 2 seconds from the beginning of the video"
+msgstr ""
+
+#: wpakVideo.py:235
+msgid "Video: Audio: Analyzing the playlist"
+msgstr ""
+
+#: wpakVideo.py:243
+msgid "Video: Audio: Creation of the audio file"
+msgstr ""
+
+#: wpakVideo.py:252
+msgid "Video: Audio: Audiofile successfully created"
+msgstr ""
+
+#: wpakVideo.py:255
+msgid "Video: Audio: Failed to create the audio file"
+msgstr ""
+
+#: wpakVideo.py:256
+msgid "Video: Audio: Inserting the audio track onto the video"
+msgstr ""
+
+#: wpakVideo.py:278
+msgid "Video: Loading video configuration file"
+msgstr ""
+
+#: wpakVideo.py:293
+msgid "Video: Loading custom video configuration file"
+msgstr ""
+
+#: wpakVideo.py:309
+msgid "Video: Source active, entering video creation process"
+msgstr ""
+
+#: wpakVideo.py:315
+#, python-format
+msgid "Video: Creation from: %(customstart)s to: %(customend)s"
+msgstr ""
+
+#: wpakVideo.py:324
+#, python-format
+msgid "Video: %(VideoType)s: Copying files into temporary directory"
+msgstr ""
+
+#: wpakVideo.py:328
+#, python-format
+msgid ""
+"Video: %(VideoType)s: Date: %(cfgdispday)s: Error, you are trying to create "
+"a daily video of the current day, try creating a custom video instead"
+msgstr ""
+
+#: wpakVideo.py:330
+#, python-format
+msgid ""
+"Video: %(VideoType)s: Error, video file exists for the date: %(cfgdispday)s"
+msgstr ""
+
+#: wpakVideo.py:337
+#, python-format
+msgid "Video: %(VideoType)s: Creation from: %(customstart)s to: %(customend)s "
+msgstr ""
+
+#: wpakVideo.py:347
+#, python-format
+msgid "Video: %(VideoType)s: Picture format incorrect, deleting ...."
+msgstr ""
+
+#: wpakVideo.py:350
+#, python-format
+msgid "Video: %(VideoType)s: All pictures have been copied to target directory"
+msgstr ""
+
+#: wpakVideo.py:355
+#, python-format
+msgid "Video: %(VideoType)s: Processing format: %(videoformats)s "
+msgstr ""
+
+#: wpakVideo.py:356
+#, python-format
+msgid ""
+"Video: %(VideoType)s: Processing format: %(videoformats)s - preparing "
+"parameters "
+msgstr ""
+
+#: wpakVideo.py:375
+#, python-format
+msgid ""
+"Video: %(VideoType)s: Format: %(videoformats)s - Compression of the first "
+"pass with mencoder"
+msgstr ""
+
+#: wpakVideo.py:378
+#, python-format
+msgid ""
+"Video: %(VideoType)s: Format: %(videoformats)s - Compression of the second "
+"pass with mencoder"
+msgstr ""
+
+#: wpakVideo.py:382
+#, python-format
+msgid "Mencoder: Video creation completed: %(VideoFile)s"
+msgstr ""
+
+#: wpakVideo.py:389
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the video file into archives"
+msgstr ""
+
+#: wpakVideo.py:391
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the video file into live directory"
+msgstr ""
+
+#: wpakVideo.py:395
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the MP4 video file into archives"
+msgstr ""
+
+#: wpakVideo.py:397
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the MP4 video file into live directory"
+msgstr ""
+
+#: wpakVideo.py:401
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the JPG preview file into archives"
+msgstr ""
+
+#: wpakVideo.py:403
+#, python-format
+msgid "Video: %(VideoType)s: Copy of the JPG preview file into live directory"
+msgstr ""
+
+#: wpakVideo.py:408 wpakVideo.py:411 wpakVideo.py:413 wpakVideo.py:417
+#: wpakVideo.py:420 wpakVideo.py:422
+#, python-format
+msgid "Video: %(VideoType)s: Sending file via FTP: %(FTPFile)s"
+msgstr ""
+
+#: wpakVideo.py:426
+#, python-format
+msgid "Video: %(VideoType)s: Youtube Upload: %(Youtubefile)s"
+msgstr ""
+
+#: wpakVideo.py:432
+msgid "Video: Sending an email to inform successful video creation"
+msgstr ""
+
+#: wpakVideo.py:434
+#, python-format
+msgid ""
+"%(CurrentHostname)s: Source %(CurrentSource)s: Video created: "
+"%(VideoFileName)s"
+msgstr ""
+
+#: wpakVideo.py:437
+#, python-format
+msgid "Video: %(VideoType)s: Error while creating video: %(VideoFile)s"
+msgstr ""
+
+#: wpakWebcam.py:51
+#, python-format
+msgid "Catpure: Webcam: Adjust brightness: %(Brightness)s"
+msgstr ""
+
+#: wpakWebcam.py:55
+#, python-format
+msgid "Catpure: Webcam: Adjust Contrast: %(Constrast)s"
+msgstr ""
+
+#: wpakWebcam.py:59
+#, python-format
+msgid "Catpure: Webcam: Adjust Color: %(Color)s"
+msgstr ""
+
+#: wpakWebcam.py:63
+#, python-format
+msgid "Catpure: Webcam: Adjust Hue: %(Hue)s"
+msgstr ""
+
+#: wpakWebcam.py:67
+msgid "Capture: Webcam: Activate debug"
+msgstr ""
+
+#: wpakWebcam.py:72
+msgid "Capture: Error: v4lctl binary not found"
+msgstr ""
+
+#: wpakWebcam.py:75
+msgid "Capture: Webcam: Capture of the webcam"
+msgstr ""
+
+#: wpakWebFile.py:48
+msgid "Capture: WebFile: Starting the capture process"
+msgstr ""

@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WebcampakMobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-12 18:24+0100\n"
+"PO-Revision-Date: 2012-11-13 19:42-0300\n"
+"Last-Translator: Francois Gerthoffert <contact@webcampak.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:22
+msgid "Send Picture"
+msgstr "Enviar uma Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:32
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/SendEmail.js:38
+msgid "Email"
+msgstr "Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:35
+msgid "To"
+msgstr "Destinatário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:39
+msgid "Subject"
+msgstr "Assunto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/InsertComment.js:35
+msgid "Picture"
+msgstr "Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/EmailPrepare.js:55
+msgid "Email Content"
+msgstr "Conteúdo do Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/InsertComment.js:25
+msgid "Insert or edit comment"
+msgstr "Inserir ou editar comentário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/InsertComment.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/InsertComment.js:38
+msgid "Comment"
+msgstr "Comentário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:22
+msgid "Source name"
+msgstr "Nome da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:31
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:31
+msgid "Prev."
+msgstr "Anter."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:37
+msgid "Next"
+msgstr "Próx."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:61
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:75
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:86
+msgid "Image loading..."
+msgstr "Carregando fto..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:84
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:104
+msgid "No date"
+msgstr "Sem data"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:84
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:104
+msgid "available"
+msgstr "Disponível"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/DatePicker.js:29
+msgid "Done"
+msgstr "Concluído"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/videos/VideoList.js:15
+msgid "MB"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/videos/VideoList.js:16
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:61
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Card.js:16
+msgid "Date"
+msgstr "Data"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/videos/Card.js:8
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:102
+msgid "Videos"
+msgstr "Videos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:8
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:106
+msgid "Settings"
+msgstr "Configurações"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:21
+msgid "Language"
+msgstr "Idioma"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:98
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Card.js:8
+#, fuzzy
+msgid "Pictures"
+msgstr "Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:58
+msgid "Optimize bandwidth"
+msgstr "Otimizar largura de banda"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:68
+msgid "Logout"
+msgstr "Logout"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Card.js:81
+msgid "Logout from Webcampak Mobile"
+msgstr "Logout de Webcamapk Mobile"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:73
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Card.js:28
+msgid "Save"
+msgstr "Salvar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:81
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Card.js:36
+msgid "Send"
+msgstr "Enviar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:100
+#, fuzzy
+msgid "View Pictures"
+msgstr "Enviar uma Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:104
+msgid "Watch Videos"
+msgstr "Assistir Videos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:108
+msgid "Configure Webcampak Mobile"
+msgstr "Configurar Webcampak Mobile"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:110
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/about/Card.js:8
+msgid "About"
+msgstr "Sobre"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:112
+msgid "More details about Webcampak"
+msgstr "Mais detalhes sobre Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:117
+msgid "contact@webcampak.com"
+msgstr "contact@webcampak.com"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/about/Card.js:13
+msgid "Webcampak is developped and maintained by Eurotechnia Ltd. "
+msgstr "Webcampak é desenvolvido e mantido por Eurotechnia Ltd."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/about/Card.js:13
+msgid ""
+"If you have any question, you can get in touch by phone or email, our "
+"contact details are listed on our website:"
+msgstr ""
+"Se surgir alguma dúvida, você pode entrar em contato por telefone ou email, "
+"detalhes estão listados em nosso website"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/about/Card.js:13
+msgid "http://www.webcampak.com/en/contact/"
+msgstr "http://www.webcampak.com/en/contact/"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Sources.js:20
+msgid "Last capture"
+msgstr "Última captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Sources.js:38
+msgid "No picture captured"
+msgstr "Nenhuma foto capturada"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/InsertComment.js:38
+msgid "Comment successfully inserted/updated"
+msgstr "Comentário inserido/descarregado com sucesso"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/SendEmail.js:38
+msgid "Email successfully sent"
+msgstr "Email enviado com sucesso"

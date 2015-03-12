@@ -1,0 +1,220 @@
+html { 
+	/*background: url(images/Dark-Sencha.jpg) no-repeat center center fixed; */
+	background: url(images/desktop.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.myBackground {
+	background: url(images/desktop.jpg) no-repeat center center fixed;
+}
+
+.icon-user						{background-image: url(images/user.png) 							!important;}
+.icon-disk 						{background-image: url(images/disk16x16.png) 					!important;}
+.icon-pictures 				{background-image: url(images/pictures16x16.png) 				!important;}
+.icon-configgeneral 			{background-image: url(images/config-general16x16.png) 		!important;}
+.icon-help 						{background-image: url(images/help16x16.png) 					!important;}
+.icon-ftp 						{background-image: url(images/ftp16x16.png) 						!important;}
+.icon-internet 				{background-image: url(images/internet16x16.png) 				!important;}
+.icon-logs 						{background-image: url(images/log16x16.png) 						!important;}
+.icon-comments 				{background-image: url(images/log16x16.png) 						!important;}
+.icon-camera 					{background-image: url(images/camera16x16.png) 					!important;}
+.icon-email 					{background-image: url(images/email16x16.png) 					!important;}
+.icon-misc 						{background-image: url(images/misc16x16.png) 					!important;}
+.icon-reboot 					{background-image: url(images/reboot16x16.png) 					!important;}
+.icon-photos 					{background-image: url(images/pictures16x16.png) 				!important;}
+.icon-videos 					{background-image: url(images/videos16x16.png) 					!important;}
+.icon-download 				{background-image: url(images/download16x16.png) 					!important;}
+.icon-webcampak 				{background-image: url(images/webcampak-logo16x16.png) 		!important;}
+.icon-stats 					{background-image: url(images/stats16x16.png) 					!important;}
+.icon-add 						{background-image: url(images/add.png) 							!important;}
+.icon-delete 					{background-image: url(images/delete.png) 						!important;}
+.icon-settings 				{background-image: url(images/config16x16.png) 					!important;}
+.icon-cloud 					{background-image: url(images/cloud16x16.png) 					!important;}
+.icon-cloudconfiguration 	{background-image: url(images/cloudconfiguration16x16.png) 	!important;}
+.icon-cloudusers 				{background-image: url(images/cloudusers16x16.png) 			!important;}
+.icon-logout 					{background-image: url(images/logout16x16.png) 					!important;}
+.icon-reload 					{background-image: url(images/reload16x16.png) 					!important;}
+.icon-webcampak 				{background-image: url(images/webcampak16x16.png) 				!important;}
+.icon-recycle 					{background-image: url(images/recycle16x16.png) 				!important;}
+.icon-next 						{background-image: url(images/next16x16.png) 					!important;}
+.icon-previous 				{background-image: url(images/previous16x16.png) 				!important;}
+.icon-last 						{background-image: url(images/last16x16.png) 					!important;}
+
+.flag-de 						{background-image: url(images/flag-de.png) !important;}
+.flag-en 						{background-image: url(images/flag-en.png) !important;}
+.flag-pt 						{background-image: url(images/flag-pt.png) !important;}
+.flag-es 						{background-image: url(images/flag-es.png) !important;}
+.flag-fr 						{background-image: url(images/flag-fr.png) !important;}
+
+.x-ie6 .icon-user 			{background-image: url(images/user.gif) !important;}
+.x-ie6 .icon-add 				{background-image: url(images/add.gif) !important;}
+.x-ie6 .icon-delete 			{background-image: url(images/delete.gif) !important;}
+
+.layoutbackground {
+	background: url(images/Dark-Sencha.jpg) no-repeat center center fixed; 
+}
+
+.buttonVideos 					{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/videos48x48.png);					}
+.buttonPhotos 					{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/pictures48x48.png);				}
+.buttonPermissions			{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/users48x48.png);					}
+.buttonConfig 					{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/config48x48.png);					}
+.buttonDownload 				{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/download48x48.png);				}
+.buttonCloud 					{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/cloud48x48.png);					}
+.buttonCloudConfiguration 	{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/cloudconfiguration48x48.png);	}
+.buttonCloudUsers				{width: 48px;	height: 48px;	border: 0px;	float: left; 	background: url(images/cloudusers48x48.png);				}
+
+.innercell .x-grid-cell-inner {
+	overflow: hidden;
+	height: 11px;
+	white-space: nowrap;
+	padding: 0px;
+	font-size: 10px;
+}
+
+.innercell .x-panel-body {
+	background: none;
+}
+.innercell .x-grid-cell {
+	background: none;
+}
+
+.innercell .x-grid-table {
+	border-collapse: collapse;
+}
+
+.thumbnailscell .x-grid-cell-inner {
+	overflow: hidden;
+	white-space: nowrap;
+	padding: 0px;
+	font-size: 10px;
+}
+
+.thumbnailscell .x-panel-body {
+	background: none;
+}
+.thumbnailscell .x-grid-cell {
+	background: none;
+}
+.thumbnailscell .x-grid-table {
+	border-collapse: collapse;
+}
+
+.viewpicturessourcename .x-panel-body {
+	background: none;
+	border: 0px;
+	text-align: center;
+}
+
+.viewpicturessourcename {
+	background: none;
+	border: 0px;
+	text-align: center;
+}
+
+.viewvideossourcename .x-panel-body {
+	background: none;
+	border: 0px;
+	text-align: center;
+}
+
+.viewvideossourcename {
+	background: none;
+	border: 0px;
+	text-align: center;
+}
+
+.thumbnail {
+  background-repeat: no-repeat;
+}
+
+.msg .x-box-mc {
+    font-size:14px;
+}
+#msg-div {
+    position:absolute;
+    left:35%;
+    top:10px;
+    width:300px;
+    z-index:20000;
+}
+#msg-div .msg {
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    background: #F6F6F6;
+    border: 2px solid #ccc;
+    margin-top: 2px;
+    padding: 10px 15px;
+    color: #555;
+}
+#msg-div .msg h3 {
+    margin: 0 0 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#msg-div .msg p {
+    margin: 0;
+}
+
+
+.x-mask.splashscreen {
+    background: url(images/desktop.jpg) no-repeat center center fixed;    
+    opacity: 1;
+}
+
+.x-mask-msg.splashscreen,
+.x-mask-msg.splashscreen div {
+    font-size: 16px;
+    padding: 30px 5px 5px 5px;
+    width: 300px;
+    border: none;
+    background-color: transparent;
+    background-position: top center;
+}
+
+.x-message-box .x-window-body .x-box-inner {
+    min-height: 110px !important;
+}
+
+.x-splash-icon {
+    /* Important required due to the loading symbols CSS selector */
+    background-image: url('images/webcampak-logo-large-300x51.png') !important;
+    height: 51px;
+    width: 300px;
+    margin-top: -30px;
+    margin-bottom: 10px;
+}
+
+
+#loading-mask {
+	position: absolute;
+	left:     0;
+	top:      0;
+	width:    100%;
+	height:   100%;
+	z-index:  20000;
+	background: url(images/desktop-wpak.jpg) no-repeat center center fixed; 	
+}
+
+#loading {
+	position: absolute;
+	left:     50%;
+	top:      50%;
+	padding:  2px;
+	z-index:  20001;
+	height:   auto;
+	margin:   -35px 0 0 -30px;
+	text-align: center;
+}
+ 
+#loading .loading-indicator {
+	color:      #555;
+	font:       bold 13px tahoma,arial,helvetica;
+	padding:    8px 42px;
+	margin:     0;
+	text-align: center;
+	height:     auto;
+	background: url(/interface/images/loading2.gif) no-repeat;	
+}
+

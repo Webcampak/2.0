@@ -1,0 +1,10 @@
+Hello,
+
+You are receiving this email because Webcampak completed batch processing for the source.
+
+Resulting pictures are available either in /pictures/process-videopost/ directory of the source or in /pictures/ directory of the target source if you selected this option.
+
+Thanks.
+
+Your Webcampak
+

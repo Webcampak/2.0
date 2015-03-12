@@ -1,0 +1,85 @@
+<?php
+	require(dirname(__FILE__).'/../../etc/interface.config.php');
+	require(dirname(__FILE__).'/remote/lib/log.php');		
+	require(dirname(__FILE__).'/remote/lib/authorization/authorizations.php');	
+	require(dirname(__FILE__).'/remote/lib/database/users.php');	
+	$dbusers = new UsersDB();
+	if (isset($_GET['lang'])) {
+		$userAuth = new Authorizations();
+		if ($userAuth->isAllowedToAccessPage("auth.base.lang") == true) {
+			if (strip_tags($_GET['lang']) == "en") {
+				Log::debug("Log: /index.html - Changing language to English");	
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "en");	
+			} else if (strip_tags($_GET['lang']) == "fr") {
+				Log::debug("Log: /index.html - Changing language to French");		
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "fr");	
+			} else if (strip_tags($_GET['lang']) == "pt") {
+				Log::debug("Log: /index.html - Changing language to Portuguese");		
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "pt");	
+			} 
+		}
+	}
+
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title id="page-title">Webcampak Interface</title>
+
+	<script type="text/javascript" src="lib/dateformat/date.format.js"></script>	
+	<script type='text/javascript' src='lib/jqzoom_ev-2.3/js/jquery-1.6.js'></script>
+
+	<script type="text/javascript" src="lib/jed/jed.js"></script>
+	<?php
+		$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));	
+		$dblang = $dbusers->getLanguage($userid);	
+		if ($dblang == "en") {
+			$lang = "en_GB.utf8";
+		} elseif ($dblang == "fr") {
+			$lang = "fr_FR.utf8";		
+		} elseif ($dblang == "pt") {
+			$lang = "pt_BR.utf8";		
+		} else {
+			$lang = "en_GB.utf8";		
+		}
+	?>
+	<script>var json_locale_data = {"": {"Content-Type":" text/plain; charset=UTF-8"},"Empty":[null,"Empty"]};</script>	
+	<script language="javascript" src="/locale/<?php echo $lang; ?>/LC_MESSAGES/webcampak-interface.json"></script>		
+	<script>
+		var i18n = new Jed({
+			locale_data : {
+				"messages" : json_locale_data
+			},
+			"domain" : "messages"
+		});	
+	//console.log(json_locale_data);
+	</script>
+	
+	<link rel="stylesheet" type="text/css" href="extjs/resources/css/ext-all.css">
+	<link rel="stylesheet" type="text/css" href="webcampak.css" />
+    
+	<script type="text/javascript" src="extjs/ext.js"></script>
+	<script type="text/javascript" src="app-all.js"></script> 
+
+	<script type='text/javascript' src='lib/jqzoom_ev-2.3/js/jquery.jqzoom-core.js'></script>
+	<link rel="stylesheet" type="text/css" href="lib/jqzoom_ev-2.3/css/jquery.jqzoom.css" />
+
+	<script type="text/javascript" src="lib/flowplayer-3.2.12/flowplayer-3.2.11.min.js"></script>		
+
+	<script type="text/javascript" src="dev/app/ux/datetime/UX_TimePickerField.js"></script>
+	<script type="text/javascript" src="dev/app/ux/datetime/UX_DateTimePicker.js"></script>
+	<script type="text/javascript" src="dev/app/ux/datetime/UX_DateTimeField.js"></script>
+	<script type="text/javascript" src="dev/app/ux/datetime/UX_DateTimeMenu.js"></script>
+
+</head>
+<body>
+	<div id="loading-mask"></div>
+	<div id="loading">
+		<div class="loading-indicator"></div>
+	</div>
+</body>
+</html>

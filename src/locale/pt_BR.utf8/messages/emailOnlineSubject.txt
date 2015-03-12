@@ -1,0 +1,1 @@
+#CURRENTHOSTNAME#: Fonte #CURRENTSOURCE# está de volta online após #NBFAILURES# falhas

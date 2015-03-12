@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-07 21:17+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:22
+msgid "Source name"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:31
+msgid "Prev."
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:37
+msgid "Next"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:61
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:105
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:116
+msgid "Image loading..."
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:84
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:134
+msgid "No date"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/Show.js:84
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:134
+msgid "available"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/DatePicker.js:29
+msgid "Done"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/source/DatePicker.js:34
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/CommentWindow.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:49
+msgid "Cancel"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/videos/VideoList.js:28
+msgid "MB"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/videos/Card.js:22
+msgid "Videos"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Settings.js:44
+msgid "Language"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Settings.js:89
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Card.js:23
+msgid "Pictures"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/settings/Settings.js:92
+msgid "Optimize bandwidth"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:48
+msgid "Webcampak Mobile"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/controller/Application.js:214
+msgid "Hide Sources"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:60
+msgid "Settings"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:86
+msgid "Welcome to Webcampak"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:86
+msgid ""
+"This is Webcampak Mobile &#8212; an easy-to use simplified version of "
+"Webcampak aimed to be used on smartphones and tablets."
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:86
+msgid ""
+"Webcampak is also available on your desktop, with a fully featured web-based "
+"application to be used with your favorite Web browser."
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Main.js:86
+msgid ""
+"Learn more at <a href=\"http://www.webcampak.com\" target=\"blank"
+"\">webcampak.com</a>"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/Sources.js:38
+msgid "No picture captured"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/CommentWindow.js:58
+msgid "Save"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/CommentWindow.js:65
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:82
+msgid "Picture"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/CommentWindow.js:77
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/InsertComment.js:38
+msgid "Comment"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/DrawWindow.js:44
+msgid "Draw Color"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/DrawWindow.js:63
+msgid "Draw Size"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:80
+msgid "Clear Drawing"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:82
+msgid "Email Drawing"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:83
+msgid "Draw Settings"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/Show.js:85
+msgid "Close"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:58
+msgid "Send"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:66
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/SendEmail.js:38
+msgid "Email"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:69
+msgid "To"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:73
+msgid "Subject"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/view/pictures/EmailWindow.js:90
+msgid "Email Content"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/controller/Application.js:217
+msgid "Show Sources"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/InsertComment.js:38
+msgid "Comment successfully inserted/updated"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/mobile/dev/app/store/SendEmail.js:38
+msgid "Email successfully sent"
+msgstr ""

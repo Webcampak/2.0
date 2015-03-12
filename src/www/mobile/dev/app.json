@@ -1,0 +1,49 @@
+{
+  "name": "WebcampakMobile",
+  "indexHtmlPath": "index.html",
+  "url": "http://root:webcampak@192.168.1.119/mobile/dev/",
+  "js": [
+    {
+      "path": "touch/sencha-touch.js"
+    },
+    {
+      "path": "app.js",
+      "bundle": true,
+      "update": "delta"
+    }
+  ],
+  "css": [
+    {
+      "path": "webcampak.css"
+    },
+    {
+      "path": "resources/css/app.css",
+      "update": "delta"
+    }
+  ],
+  "appCache": {
+    "cache": [
+      "index.html"
+    ],
+    "network": [
+      "*"
+    ],
+    "fallback": []
+  },
+  "resources": [
+    "resources/images",
+    "resources/icons",
+    "resources/startup"
+  ],
+  "ignore": [
+    ".svn$"
+  ],
+  "archivePath": "archive",
+  "buildOptions": {
+    "product": "touch",
+    "minVersion": 3,
+    "debug": false,
+    "logger": "false"
+  },
+  "id": "5a3f1b80-fa92-11e1-94c5-3d80b54d0a50"
+}

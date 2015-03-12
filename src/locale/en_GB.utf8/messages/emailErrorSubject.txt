@@ -1,0 +1,1 @@
+#CURRENTHOSTNAME#: Capture error on source: #CURRENTSOURCE# - Time since last capture: #TIMESINCELASTCAPTURE#

@@ -1,0 +1,195 @@
+$base-gradient: matte;
+$list-pressed-color: mix(#08679F, #fff, 10);
+$list-active-color: mix(#043F62, #fff, 0);
+
+@import 'sencha-touch/default/all';
+
+// You may remove any of the following modules that you
+// do not use in order to create a smaller css file.
+@include sencha-panel;
+@include sencha-buttons;
+@include sencha-sheet;
+@include sencha-picker;
+@include sencha-tabs;
+@include sencha-toolbar;
+@include sencha-toolbar-forms;
+@include sencha-indexbar;
+@include sencha-list;
+@include sencha-layout;
+@include sencha-carousel;
+@include sencha-form;
+@include sencha-msgbox;
+
+@include pictos-iconmask('photo1');
+@include pictos-iconmask('settings7');
+@include pictos-iconmask('video');
+@include pictos-iconmask('mail');
+@include pictos-iconmask('calendar');
+@include pictos-iconmask('doc_compose1');
+@include pictos-iconmask('compose3');
+@include pictos-iconmask('trash');
+@include pictos-iconmask('data');
+@include pictos-iconmask('stop1');
+
+@include pictos-iconmask('arrow_left');
+@include pictos-iconmask('arrow_right');
+@include pictos-iconmask('fforward');
+
+//blue toolbar
+@include sencha-toolbar-ui('sencha', #06517E, matte);
+.x-toolbar-sencha .x-title {
+    text-shadow: 0 1px 0 rgba(0,0,0,.8);
+}
+
+//buttons
+@include sencha-button-ui('sencha', #2E9A3E, matte);
+
+// contacts
+.x-sources {
+//    .x-list-item-label {
+	
+    .x-innerhtml {    	
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 18px;
+
+        span {
+            display: block;
+            font-size: 14px;
+            font-weight: normal;
+            color: #666;
+        }
+    }
+
+    .headshot {
+        float: left;
+        height: 37px;
+        width: 37px;
+        margin-right: 10px;
+        background-size: cover;
+        background-position: center center;
+        background: #ddd;
+        @include border-radius(3px);
+        -webkit-box-shadow: inset 0 0 2px rgba(0,0,0,.6);
+    }
+
+    .x-item-pressed,
+    .x-item-selected {
+        border-top-color: #D1D1D1 !important;
+    }
+}
+
+.x-toolbar-inner {
+    .x-layout-hbox {
+        position: relative;
+
+        #editButton,
+        #saveButton {
+            position: absolute;
+            right: 0;
+            top: .4em;
+        }
+    }
+}
+#launchscreen {
+	background:#d6d6d6 url(/mobile/images/noise.gif);
+	display:box;
+	-webkit-box-orient:vertical;
+	box-orient:vertical;
+	-webkit-box-align:center;
+	box-align:center;
+	-webkit-box-pack:center;
+	box-pack:center;
+}
+
+#launchscreen .x-innerhtml > div {
+	text-align:left;
+	background-color:rgba(255,255,255,0.3);
+	color:#444;
+	font-size:15px;
+	line-height:18px;
+	-webkit-box-shadow:rgba(0,0,0,0.3) 0 1px 4px inset, rgba(0,0,0,0.3) 0 1px 0 inset, rgba(255,255,255,0.1) 0 1px 0;
+	box-shadow:rgba(0,0,0,0.3) 0 1px 4px inset, rgba(0,0,0,0.3) 0 1px 0 inset, rgba(255,255,255,0.1) 0 1px 0;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	padding:20px;
+}
+
+#launchscreen .feature {
+	padding-left:65px;
+	position:relative;
+	min-height:60px;
+	margin:15px;
+}
+
+#launchscreen .feature > img {
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+#launchscreen .main {
+	border-bottom:1px solid #ccc;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	min-height:80px;
+}
+
+#launchscreen footer {
+	font-size:14px;
+	color:#888;
+	padding:10px 0 0;
+}
+
+#launchscreen footer a {
+	font-weight:700;
+	text-decoration:none;
+	color:#146aa5;
+}
+
+#launchscreen h1 {
+	font-size:26px;
+	font-weight:700;
+	color:#000;
+}
+
+#launchscreen span {
+	color:#999;
+}
+
+.card em {
+	color:#657b83;
+}
+
+.card > .x-inner,.card .x-body > .x-inner,.card .x-inner:not(.x-toolbar-inner).x-scroll-scroller {
+	display:box;
+	-webkit-box-orient:vertical;
+	box-orient:vertical;
+	-webkit-box-align:center;
+	box-align:center;
+	-webkit-box-pack:center;
+	box-pack:center;
+}
+
+.card .x-innerhtml {
+	text-align:center;
+	font-size:18px;
+	line-height:24px;
+	color:#444;
+	text-shadow:rgba(255,255,255,0.3) 0 1px 0;
+	width:75%;
+	margin:0 auto;
+	padding:10px;
+}
+
+.x-form-color-picker-field {
+	background-color: #fff;
+	width: 100%;
+	min-height: 2.5em;
+	padding: .25em .4em;
+}
+
+.x-form-color-picker-field-last-fieldset {
+	-webkit-border-bottom-right-radius: .4em;
+	border-bottom-right-radius: .4em
+}

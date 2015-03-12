@@ -1,0 +1,15 @@
+AuthName "Webcampak"
+AuthType Basic
+AuthUserFile /dev/null
+AuthBasicAuthoritative off
+
+Auth_MySQL on
+Auth_MySQL_Authoritative on
+Auth_MySQL_DB webcampak
+Auth_MySQL_Password_Table users
+Auth_MySQL_Username_Field username
+Auth_MySQL_Password_Field password
+Auth_MySQL_Encryption_Types SHA1Sum
+Auth_MySQL_Group_Table sources_groups
+Auth_MySQL_Group_Field usergroup
+

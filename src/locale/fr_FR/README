@@ -1,0 +1,8 @@
+Translation tree structure:
+--------------------------
+
+admin/ : Translation strings for the administration page, one file per page
+LC_MESSSAGES : Gettext translation files for Webcampak core (log files)
+messages/ : Email texts and capture failure picture
+viewer/ : Translation strings for the administration page, one file per page
+

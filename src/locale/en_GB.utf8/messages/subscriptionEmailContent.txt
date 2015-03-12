@@ -1,0 +1,20 @@
+Hello #CUSTOMERFIRSTNAME#,
+
+All Webcampak Cloud team welcome you onboard. 
+
+We just created your credentials on the system, you can now log-in using the following details:
+Server: #SERVERURL# 
+Username: #CUSTOMERUSERNAME# 
+Password: #CUSTOMERPASSWORD# 
+
+You can use Webcampak interface with the following web browsers: Google Chrome, Mozilla Firefox, Apple Safari
+
+Your source has been pre-configured but is disabled right now, go to Webcampak Cloud configuration to activate it.
+
+Please do not hesitate to get in touch if you need any additional details.
+
+Regards,
+Webcampak team
+contact@webcampak.com
+
+PS: Please mention this number in all emails: #CUSTOMERINVOICE#

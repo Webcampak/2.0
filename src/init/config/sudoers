@@ -1,0 +1,1 @@
+www-data    ALL=(ALL) NOPASSWD: /usr/bin/php -f /home/tmpusername/webcampak/bin/server.php*

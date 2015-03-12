@@ -1,0 +1,66 @@
+<VirtualHost *:80>
+	ServerAdmin webmaster@localhost
+	DocumentRoot /home/tmpusername/webcampak/www/
+
+	Alias /sources  "/home/tmpusername/webcampak/sources/"
+	<Directory "/home/tmpusername/webcampak/sources/">
+		Options +Indexes FollowSymLinks MultiViews
+		AllowOverride AuthConfig Options FileInfo Limit
+		Order allow,deny
+		Allow from all
+	</Directory>
+
+	Alias /locale  "/home/tmpusername/webcampak/locale/"
+   <Directory "/home/tmpusername/webcampak/locale/">
+		Options +Indexes FollowSymLinks MultiViews
+		AllowOverride AuthConfig Options FileInfo Limit
+		Order allow,deny
+		Allow from all
+	</Directory>
+
+
+	ErrorLog /var/log/apache2/error.log
+
+	# Possible values include: debug, info, notice, warn, error, crit,
+	# alert, emerg.
+	LogLevel warn
+
+	CustomLog /var/log/apache2/access.log combined
+
+</VirtualHost>
+
+
+<VirtualHost *:443>
+	ServerAdmin webmaster@localhost
+	DocumentRoot /home/tmpusername/webcampak/www/
+
+	Alias /sources  "/home/tmpusername/webcampak/sources/"
+	<Directory "/home/tmpusername/webcampak/sources/">
+		Options +Indexes FollowSymLinks MultiViews
+		AllowOverride AuthConfig Options FileInfo Limit
+		Order allow,deny
+		Allow from all
+	</Directory>
+
+	Alias /locale  "/home/tmpusername/webcampak/locale/"
+   <Directory "/home/tmpusername/webcampak/locale/">
+		Options +Indexes FollowSymLinks MultiViews
+		AllowOverride AuthConfig Options FileInfo Limit
+		Order allow,deny
+		Allow from all
+	</Directory>
+
+	ErrorLog /var/log/apache2/error.log
+
+	# Possible values include: debug, info, notice, warn, error, crit,
+	# alert, emerg.
+	LogLevel warn
+
+	CustomLog /var/log/apache2/access.log combined
+
+
+	SSLEngine on
+	SSLCertificateFile /etc/apache2/certs/cert.pem
+	SSLCertificateKeyFile /etc/apache2/certs/cert.key
+	
+</VirtualHost>

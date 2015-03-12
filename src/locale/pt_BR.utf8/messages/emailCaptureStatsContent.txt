@@ -1,0 +1,6 @@
+Olá, Estas são as estatísticas de fonte: #CURRENTSOURCE#.aquisição de imagem: #CAPTURESUCCESS#/#CAPTUREREQUEST# FTP Primário: #MAINFTPSUCCESS#/#MAINFTPREQUEST# 
+FTP Secundário: #SECONDFTPSUCCESS#/#SECONDFTPREQUEST# 
+Hotlink FTP: #HOTLINKFTPSUCCESS#/#HOTLINKFTPREQUEST# Tempo da última captura foi: #LASTCAPTURE# 
+
+Você vai encontrar todos esses valores no arquivo zip em anexo.Atenciosamente.Webcampak
+ 

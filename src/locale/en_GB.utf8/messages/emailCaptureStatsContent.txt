@@ -1,0 +1,17 @@
+Hello,
+
+Theses are the statistics of source: #CURRENTSOURCE#.
+
+Picture acquisition: #CAPTURESUCCESS#/#CAPTUREREQUEST# 
+Primary FTP: #MAINFTPSUCCESS#/#MAINFTPREQUEST# 
+Secondary FTP: #SECONDFTPSUCCESS#/#SECONDFTPREQUEST# 
+Hotlink FTP: #HOTLINKFTPSUCCESS#/#HOTLINKFTPREQUEST# 
+
+Last capture timestamp was: #LASTCAPTURE#
+
+You will find all those values in the enclosed zip file.
+
+Regards.
+
+Your Webcampak
+ 

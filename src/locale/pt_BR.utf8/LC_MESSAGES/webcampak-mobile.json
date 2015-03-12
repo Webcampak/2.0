@@ -1,0 +1,173 @@
+var json_locale_data = {
+   "webcampak-mobile" : {
+      "More details about Webcampak" : [
+         null,
+         "Mais detalhes sobre Webcampak"
+      ],
+      "" : {
+         "MIME-Version" : " 1.0",
+         "X-Generator" : " Poedit 1.5.4",
+         "POT-Creation-Date" : " 2012-11-12 18:24+0100",
+         "Last-Translator" : " Francois Gerthoffert <contact@webcampak.com>",
+         "Content-Type" : " text/plain; charset=UTF-8",
+         "PO-Revision-Date" : " 2012-11-13 19:42-0300",
+         "Language-Team" : " ",
+         "Content-Transfer-Encoding" : " 8bit",
+         "Project-Id-Version" : " WebcampakMobile",
+         "Report-Msgid-Bugs-To" : " "
+      },
+      "If you have any question, you can get in touch by phone or email, our contact details are listed on our website:" : [
+         null,
+         "Se surgir alguma dúvida, você pode entrar em contato por telefone ou email, detalhes estão listados em nosso website"
+      ],
+      "Insert or edit comment" : [
+         null,
+         "Inserir ou editar comentário"
+      ],
+      "Configure Webcampak Mobile" : [
+         null,
+         "Configurar Webcampak Mobile"
+      ],
+      "Logout" : [
+         null,
+         "Logout"
+      ],
+      "Source name" : [
+         null,
+         "Nome da Fonte"
+      ],
+      "Optimize bandwidth" : [
+         null,
+         "Otimizar largura de banda"
+      ],
+      "Email" : [
+         null,
+         "Email"
+      ],
+      "No picture captured" : [
+         null,
+         "Nenhuma foto capturada"
+      ],
+      "Subject" : [
+         null,
+         "Assunto"
+      ],
+      "Email Content" : [
+         null,
+         "Conteúdo do Email"
+      ],
+      "Logout from Webcampak Mobile" : [
+         null,
+         "Logout de Webcamapk Mobile"
+      ],
+      "MB" : [
+         null,
+         ""
+      ],
+      "Picture" : [
+         null,
+         "Foto"
+      ],
+      "Comment" : [
+         null,
+         "Comentário"
+      ],
+      "Send" : [
+         null,
+         "Enviar"
+      ],
+      "Date" : [
+         null,
+         "Data"
+      ],
+      "Image loading..." : [
+         null,
+         "Carregando fto..."
+      ],
+      "Last capture" : [
+         null,
+         "Última captura"
+      ],
+      "Save" : [
+         null,
+         "Salvar"
+      ],
+      "To" : [
+         null,
+         "Destinatário"
+      ],
+      "Prev." : [
+         null,
+         "Anter."
+      ],
+      "Videos" : [
+         null,
+         "Videos"
+      ],
+      "Watch Videos" : [
+         null,
+         "Assistir Videos"
+      ],
+      "Done" : [
+         null,
+         "Concluído"
+      ],
+      "contact@webcampak.com" : [
+         null,
+         "contact@webcampak.com"
+      ],
+      "Email successfully sent" : [
+         null,
+         "Email enviado com sucesso"
+      ],
+      "Webcampak is developped and maintained by Eurotechnia Ltd. " : [
+         null,
+         "Webcampak é desenvolvido e mantido por Eurotechnia Ltd."
+      ],
+      "available" : [
+         null,
+         "Disponível"
+      ],
+      "Pictures" : [
+         null,
+         "Foto"
+      ],
+      "http://www.webcampak.com/en/contact/" : [
+         null,
+         "http://www.webcampak.com/en/contact/"
+      ],
+      "Send Picture" : [
+         null,
+         "Enviar uma Foto"
+      ],
+      "Settings" : [
+         null,
+         "Configurações"
+      ],
+      "Language" : [
+         null,
+         "Idioma"
+      ],
+      "View Pictures" : [
+         null,
+         "Enviar uma Foto"
+      ],
+      "Next" : [
+         null,
+         "Próx."
+      ],
+      "No date" : [
+         null,
+         "Sem data"
+      ],
+      "Comment successfully inserted/updated" : [
+         null,
+         "Comentário inserido/descarregado com sucesso"
+      ],
+      "About" : [
+         null,
+         "Sobre"
+      ]
+   }
+}
+;

@@ -1,0 +1,1 @@
+#CURRENTHOSTNAME#: Capturar erro na fonte: #CURRENTSOURCE# - Hora desde a última captura: #TIMESINCELASTCAPTURE#

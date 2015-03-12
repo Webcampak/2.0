@@ -1,0 +1,2667 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Webcampak\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-12 18:24+0100\n"
+"PO-Revision-Date: 2012-11-13 23:16+0100\n"
+"Last-Translator: Francois Gerthoffert <contact@webcampak.com>\n"
+"Language-Team: François Gerthoffert <contact@webcampak.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/app.js:62
+msgid "Loading application ..."
+msgstr "Carregando aplicação ..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:21
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:21
+msgid "NewUser"
+msgstr "Novo Usuário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:23
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:22
+msgid "NewPassword"
+msgstr "Nova Senha"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:23
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:23
+msgid "email@email.com"
+msgstr "email@email.com"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:80
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailableUsers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupMembers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceAvailableUsers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceMembers.js:38
+msgid "Firstname"
+msgstr "Nome"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:79
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:87
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailableUsers.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupMembers.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:64
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceAvailableUsers.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceMembers.js:39
+msgid "Lastname"
+msgstr "Sobrenome"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:31
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/User.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:32
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:81
+msgid "Invoice"
+msgstr "Fatura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/User.js:35
+msgid "New Source"
+msgstr "Nova fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/cloud/User.js:37
+msgid "http://www.newsource.com/test.jpg"
+msgstr "http://www.newsource.com/test.jpg"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/Page.js:22
+msgid "Page Name"
+msgstr "Nome da Página"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/Company.js:21
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/AddCompany.js:35
+msgid "Company Name"
+msgstr "Nome da Empresa"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/Group.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/AddGroup.js:35
+msgid "Group Name"
+msgstr "Nome do Grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/model/permissions/Source.js:23
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:205
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFiles.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizes.js:42
+msgid "Source Name"
+msgstr "Nome da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/ux/DateTimePicker.js:3
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/ux/DateTimePicker.js:10
+msgid "Today"
+msgstr "Hoje"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/ux/DateTimePicker.js:4
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/ux/DateTimePicker.js:11
+msgid "Hour"
+msgstr "Hora"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:22
+msgid "Webcampak connected devices"
+msgstr "Dispositivos Webcampak conectados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:40
+msgid "Scan"
+msgstr "Escanear"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:47
+msgid "Gphoto2: Connected Cameras"
+msgstr "Gphoto2: Cameras conectadas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:61
+msgid "Gphoto2: Cameras Capabilities"
+msgstr "Gphoto2: Capacidades da Camera"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:75
+msgid "USB devices connected (lsusb)"
+msgstr "Dispositivos USB conectados (Isusb)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:89
+msgid "Video Devices, USB Webcams"
+msgstr "Dispositivos de Vídeo, Webcams USB"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:115
+msgid "/dev/video0"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:116
+msgid "/dev/video1"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:98
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:117
+msgid "/dev/video2"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:99
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:118
+msgid "/dev/video3"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:100
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:119
+msgid "/dev/video4"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:101
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:120
+msgid "/dev/video5"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:102
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:121
+msgid "/dev/video6"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:103
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:122
+msgid "/dev/video7"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:104
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:123
+msgid "/dev/video8"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:105
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:124
+msgid "/dev/video9"
+msgstr ""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/connecteddevices/ConnectedDevicesWindow.js:108
+msgid "Video Devices, USB Webcams (Advanced)"
+msgstr "Dispositivos de Vídeo, Webcams USB (Avançado)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ViewMenus.js:39
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:121
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:32
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFiles.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:102
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:30
+msgid "Pictures"
+msgstr "Fotos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ViewMenus.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:177
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:42
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:154
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:31
+msgid "Videos"
+msgstr "Vídeos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosList.js:63
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/SourcesList.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/CompaniesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupsList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailablePages.js:39
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserAvailableSources.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourcesList.js:31
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/SourcesList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/SourcesList.js:28
+msgid "Name"
+msgstr "Nome"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosList.js:64
+msgid "Format"
+msgstr "Formato"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosList.js:65
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Transition.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Resize.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:82
+msgid "Size"
+msgstr "Tam."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosList.js:66
+msgid "D/L"
+msgstr "D/L"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/CurrentVideo.js:26
+msgid "No video available  ..."
+msgstr "Nenhum vídeo disponível ..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosWindow.js:24
+msgid "Webcampak Videos"
+msgstr "Vídeos Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosWindow.js:41
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:41
+msgid "No Source Selected"
+msgstr "Nenhuma Fonte Selecionada"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/VideosWindow.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/CloudUsersWindow.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:51
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:72
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:88
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:104
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:120
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/videos/SourcesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SourcesList.js:29
+msgid "Click here to select another source..."
+msgstr "Clique aqui para selecionar outra fonte..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/CloudUsersWindow.js:23
+msgid "Manage Cloud users"
+msgstr "Gerenciar usuários Cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/CloudUsersWindow.js:34
+msgid "Available Webcampak Cloud users"
+msgstr "Usuários Webcampak Cloud disponíveis"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/CloudUsersWindow.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:79
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/CompaniesList.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/AddGroup.js:41
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:90
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/AddCompany.js:41
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:110
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:79
+msgid "Add"
+msgstr "Adicionar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/CloudUsersWindow.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:42
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/CompaniesList.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:116
+msgid "Delete"
+msgstr "Excluir "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:74
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Phidget.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:24
+msgid "ID"
+msgstr "ID"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:75
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:51
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/LocalFTP.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailableUsers.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupMembers.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceAvailableUsers.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceMembers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:51
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/LocalFTP.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/FTP.js:28
+msgid "Username"
+msgstr "Nome do Usuário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:76
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/LocalFTP.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/LocalFTP.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/FTP.js:34
+msgid "Password"
+msgstr "Senha"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:77
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:67
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:52
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:151
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:100
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:88
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureSendEmail.js:43
+msgid "Email"
+msgstr "Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:80
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:125
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:31
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:70
+msgid "Company"
+msgstr "Empresa"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:82
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Phidget.js:25
+msgid "Type"
+msgstr "Tipo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:176
+msgid "Cloud Mini"
+msgstr "Cloud Mini"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:92
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:177
+msgid "Cloud Base"
+msgstr "Cloud Base"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:97
+msgid "Expire"
+msgstr "Expirar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:98
+msgid "Expiry Date"
+msgstr "Data de Expiração"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/UsersList.js:99
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:138
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:80
+msgid "Enable Interface"
+msgstr "Permitir Interface"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:22
+msgid "Add a Webcampak Cloud User"
+msgstr "Adicionar um Usuário Webcampak Cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:35
+msgid "User details"
+msgstr "Detalhes do Usuário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:220
+msgid "Language"
+msgstr "Idioma"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:112
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:229
+msgid "French"
+msgstr "Francês"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:230
+msgid "English"
+msgstr "Inglês"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:132
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UsersList.js:32
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:76
+msgid "Group"
+msgstr "Grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:146
+msgid "Administrative details"
+msgstr "Detalhes Administrativos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:156
+msgid "Invoice #"
+msgstr "Fatura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:162
+msgid "Account Type"
+msgstr "Tipo da Conta"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:190
+msgid "Account Expiry date"
+msgstr "Data da Expiração da Conta"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:195
+msgid "Source details"
+msgstr "Detalhes da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:212
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:30
+msgid "Source Type"
+msgstr "Tipo da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:226
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:47
+msgid "Internet Picture (HTTP ou FTP)"
+msgstr "Foto da Internet (HTTP ou FTP)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:227
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:48
+msgid "Video Streaming (RTSP)"
+msgstr "Transmissão do Vídeo (RTSP)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:239
+msgid "Source URL"
+msgstr "Fonte URL"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:243
+msgid "Generate Email"
+msgstr "Gerar Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:255
+msgid "Email Subject"
+msgstr "Assunto do Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:268
+msgid "Email Content"
+msgstr "Conteúdo do Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:277
+msgid "Create & Send email"
+msgstr "Criar & Enviar email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudusers/AddUser.js:284
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:84
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/AddGroup.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/AddCompany.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:75
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:85
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:84
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Timezone.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Timezone.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:67
+msgid "Timezone"
+msgstr "Fuso Horário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webcam.js:28
+msgid "Native Webcam definition"
+msgstr "Resolução nativa da Webcam"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webcam.js:39
+msgid "Brightness"
+msgstr "Brilho"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webcam.js:47
+msgid "Contrast"
+msgstr "Contraste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webcam.js:55
+msgid "Saturation"
+msgstr "Saturaçao"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webcam.js:63
+msgid "Gain"
+msgstr "Obtenção"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/InstantCapture.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/InstantCapture.js:24
+msgid "Warning"
+msgstr "Atenção"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/InstantCapture.js:24
+msgid "instant capture is likely to interfere with regular capture. Only use it during configuration phases. Image will be displayed at the bottom of this page"
+msgstr "captura instantânea é suscetível de interferir com a captura regular. Usá-lo apenas durante as fases de configuração. Imagem será exibida na parte inferior da página"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/InstantCapture.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/InstantCapture.js:26
+msgid "Capture Picture"
+msgstr "Capturer une image"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Webfile.js:27
+msgid "URL File/Stream"
+msgstr "URL Arquivo/Transmissão"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Source.js:24
+msgid "Activate Source"
+msgstr "Ativar Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:44
+msgid "Compact or DSLR USB Camera (Gphoto2 PTP mode)"
+msgstr "Comprimir ou DSLR USB Camera (Gphoto2 PTP mode)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:45
+msgid "USB Webcam"
+msgstr "Webcam USB"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:46
+msgid "IP Camera (FTP) / Webcampak"
+msgstr "Camera IP / Webcampak (FTP)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:49
+msgid "Sensor (Phidget)"
+msgstr "Capture Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:60
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Source.js:29
+msgid "Capture every"
+msgstr "Capturar a cada"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:86
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:123
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:169
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:73
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:80
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Source.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:80
+msgid "Minutes"
+msgstr "Minutos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:87
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:124
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:170
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:74
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:81
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:81
+msgid "Seconds"
+msgstr "Segundos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:95
+msgid "Minimum Interval"
+msgstr "Intervalo Mínimo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:141
+msgid "Capture delay"
+msgstr "Atraso de Captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:184
+msgid "Picture date"
+msgstr "Data da Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:193
+msgid "Capture time"
+msgstr "Tempo de captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:194
+msgid "Script start time"
+msgstr "Hora de início do Script"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:241
+msgid "Email alerts"
+msgstr "Alertas de Email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:257
+msgid "Debug"
+msgstr "Debug"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Source.js:266
+msgid "Block capture"
+msgstr "Bloquear Captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/CameraPort.js:22
+msgid "Camera Port"
+msgstr "Porta da Camera"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:28
+msgid "Activate calendar"
+msgstr "Ativar Calendário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:29
+msgid "If disabled, the system will capture 24/7"
+msgstr "Se desativado, o sistema irá capturar 24/7"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:34
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:34
+msgid "Monday"
+msgstr "Segunda-Feira "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:63
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:77
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:105
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:119
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:63
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:77
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:105
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:119
+msgid "Between"
+msgstr "Entre"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:39
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:67
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:81
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:109
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:123
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:39
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:67
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:81
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:109
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:123
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:53
+msgid "and"
+msgstr "e"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:48
+msgid "Tuesday"
+msgstr "Terça-Feira"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:62
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:62
+msgid "Wednesday"
+msgstr "Quarta-Feira"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:76
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:76
+msgid "Thursday"
+msgstr "Quinta-Feira"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:90
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:90
+msgid "Friday"
+msgstr "Sexta-Feira"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:104
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:104
+msgid "Saturday"
+msgstr "Sábado"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Calendar.js:118
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/Calendar.js:118
+msgid "Sunday"
+msgstr "Domingo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:31
+msgid "Define picture date based upon"
+msgstr "Definir data da foto baseado em"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:39
+msgid "Date when file was save into /tmp/ directory"
+msgstr "Data quando o arquivo foi salvo dentro /tmp/ diretório"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:40
+msgid "Picture filename (Webcampak) - (YYYYMMDDHHMMSS.jpg)"
+msgstr "Nome do arquivo da foto (Webcampak) - (YYYYMMDDHHMMSS.jpg)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:41
+msgid "EXIF Metadata (date)"
+msgstr "EXIF Metadata (data)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:50
+msgid "Limit hotlink processing to one picture per rotation"
+msgstr "Limite hotlink processando para uma foto por rotação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/IPCamera.js:57
+msgid "Take actions if no new pictures in /tmp/ directory."
+msgstr "Tomar medidas se não haver novas fotos em /tmp/ directory."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Phidget.js:26
+msgid "Port"
+msgstr "Porta"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Phidget.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:35
+msgid "Legend"
+msgstr "Legenda"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Phidget.js:28
+msgid "Color"
+msgstr "Cor"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:28
+msgid "Camera Model"
+msgstr "Modelo da Camera "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:41
+msgid "Multi-Camera environment only"
+msgstr "Ambiente Multi-Camera apenas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:40
+msgid "Camera Owner (TAG)"
+msgstr "Proprietário da Camera (TAG)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:49
+msgid "Process RAW files"
+msgstr "Processos de Arquivos RAW"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:56
+msgid "Enable RAW primary FTP"
+msgstr "Ativar RAW FTP Primario"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/Gphoto.js:63
+msgid "Enable RAW secondary FTP"
+msgstr "Ativar RAW FTP Secundario"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/capture/WebcamPort.js:22
+msgid "Webcam Port"
+msgstr "Porta Webcam"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:27
+msgid "Insert legend"
+msgstr "Inserir legenda"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:40
+msgid "Date format"
+msgstr "Formato da data"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:52
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:54
+msgid "Do not insert date"
+msgstr "Não inserir data"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:55
+msgid "25/01/2010 - 09h30"
+msgstr "25/01/2010 - 09h30"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:56
+msgid "25/01/2010"
+msgstr "25/01/2010"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:57
+msgid "09h30"
+msgstr "09h30"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:58
+msgid "Thursday 25 January 2010 - 09h30"
+msgstr "Quinta-Feira 25 de Janeiro 2010 - 09h30"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:59
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:59
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:59
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:59
+msgid "25 January 2010 - 09h30"
+msgstr "25 de Janeiro de 2010 - 09h30"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:69
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:67
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:69
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:69
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:69
+msgid "Text size"
+msgstr "Tamanho do texto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:78
+msgid "Text location"
+msgstr "Localização do texto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:92
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:90
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:92
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:92
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:92
+msgid "South West"
+msgstr "Sudoeste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:93
+msgid "South"
+msgstr "Sul"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:92
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:94
+msgid "South East"
+msgstr "Sudeste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:95
+msgid "East"
+msgstr "Leste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:96
+msgid "North East"
+msgstr "Nordeste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:95
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:97
+msgid "North"
+msgstr "Norte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:98
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:98
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:98
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:98
+msgid "North West"
+msgstr "Noroeste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:99
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:99
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:99
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:99
+msgid "West"
+msgstr "Oeste"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:111
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:113
+msgid "Legend Coordinates"
+msgstr "Coordenadas das legendas "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:118
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:116
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:118
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:118
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:118
+msgid "Legend Color"
+msgstr "Cor da legenda"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:128
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:126
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:128
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:128
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:128
+msgid "Shadow Coordinates"
+msgstr "Coordenadas da Sombra"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:133
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Text.js:131
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Text.js:133
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/PreProcess.js:133
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Text.js:133
+msgid "Shadow Color"
+msgstr "Cor da sombra"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:148
+msgid "Resize picture before video creation"
+msgstr "Redimensionar foto antes da criação do vídeo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:156
+msgid "Picture size (1920x1080)"
+msgstr "Tamanho da foto (1920x1080)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:169
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:22
+msgid "Video effect"
+msgstr "Efeito de vídeo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:183
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:29
+msgid "No effect"
+msgstr "Sem efeito"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:184
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:30
+msgid "Tilt Shift"
+msgstr "Tilt Shift"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:185
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:31
+msgid "charcoal"
+msgstr "Charcoal"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:186
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:32
+msgid "colorin"
+msgstr "Color-In"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/PreProcess.js:187
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Effect.js:33
+msgid "sketch"
+msgstr "Sketch"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Audio.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/Audio.js:27
+msgid "Add an audio track"
+msgstr "Adicionar uma música"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:26
+msgid "Send AVI video files to:"
+msgstr "Enviar arquivos de vídeo AVI para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/FTP.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/FTP.js:37
+msgid "Number of retry:"
+msgstr "Número de tentativas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:35
+msgid "Send MP4 video files to:"
+msgstr "Enviar aqruivos MP4 para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:44
+msgid "Send hotlink AVI video files to:"
+msgstr "Enviar arquivos hotlink de vídeo AVI para: "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/FTP.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/FTP.js:53
+msgid "Send hotlink MP4 video files to:"
+msgstr "Enviar arquivos hotlink de vídeo MP4 para: "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:26
+msgid "1080p:"
+msgstr "1080p:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:68
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:88
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:67
+msgid "Bitrate:"
+msgstr "Bitrate:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:70
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:90
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:69
+msgid "Size:"
+msgstr "Tamanho:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:34
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:74
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:94
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:73
+msgid "Crop:"
+msgstr "Cortar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:46
+msgid "720p:"
+msgstr "720p:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:67
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreationAdvanced.js:66
+msgid "480p:"
+msgstr "480p:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreationAdvanced.js:87
+msgid "Custom:"
+msgstr "Personalizar:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:26
+msgid "H. 264 (1080p)"
+msgstr "H. 264 (1080p)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:27
+msgid "HD Format, Highest quality."
+msgstr "Formato HD, Qualidade máxima"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:46
+msgid "Web (MP4)"
+msgstr "Web (MP4)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:39
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:47
+msgid "FPS"
+msgstr "FPS"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:35
+msgid "H. 264 (720p)"
+msgstr "H. 264 (720p)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:36
+msgid "HD Format, High quality."
+msgstr "Formato HD, Alta qualidade."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:44
+msgid "H. 264 (480p)"
+msgstr "H. 264 (480p)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/VideoCreation.js:45
+msgid "Similar to DVD."
+msgstr "Semelhante a um DVD"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:54
+msgid "H. 264 (Custom)"
+msgstr "H. 264 (Personalizados)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/VideoCreation.js:55
+msgid "H.264, custom settings."
+msgstr "H.264, Definições personalizadas)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/AudioFile.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/AudioFile.js:22
+msgid "Audio File"
+msgstr "Arquivo de Áudio"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Filter.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:209
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:276
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:332
+msgid "Filter similar pictures"
+msgstr "Filtar imagens semelhantes"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Filter.js:40
+msgid "Max distance"
+msgstr "Distancia Máxima"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:27
+msgid "Upload video to Youtube"
+msgstr "Descarregar vídeo para Youtube"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:38
+msgid "Film"
+msgstr "Filme"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:39
+msgid "Autos"
+msgstr "Autos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:40
+msgid "Music"
+msgstr "Musica"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:41
+msgid "Animals"
+msgstr "Animais"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:42
+msgid "Sports"
+msgstr "Esportes"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:43
+msgid "Travel"
+msgstr "Viagem"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:44
+msgid "Shortmov"
+msgstr "Curta-metragem"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:45
+msgid "Games"
+msgstr "Jogos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:46
+msgid "Comedy"
+msgstr "Comédia"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:47
+msgid "People"
+msgstr "Pessoas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:48
+msgid "News"
+msgstr "Novidades"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:49
+msgid "Entertainment"
+msgstr "Entretenimento"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:50
+msgid "Education"
+msgstr "Educação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:51
+msgid "Howto"
+msgstr "Instruções"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Youtube.js:52
+msgid "Nonprofit"
+msgstr "Sem fins lucrativos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Watermark.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Watermark.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/Watermark.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Watermark.js:27
+msgid "Insert a watermark"
+msgstr "Inserir marca da agua"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Watermark.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Watermark.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/Watermark.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Watermark.js:38
+msgid "Transparency"
+msgstr "Transparencia "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/videos/Watermark.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Watermark.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/videos/Watermark.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Watermark.js:45
+msgid "Location of the watermark"
+msgstr "Localização da marca da agua"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Transition.js:26
+msgid "Activate Transition"
+msgstr "Ativar Transição"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Transition.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:60
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Crop.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Crop.js:48
+msgid "Location"
+msgstr "Localização"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Resize.js:26
+msgid "Resize Picture"
+msgstr "Redimensionar Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:26
+msgid "Insert a thumbnail"
+msgstr "Inserir uma miniatura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:34
+msgid "Insert a border around thumbnail"
+msgstr "Inserir uma margem em volta da miniatura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:40
+msgid "Thumbnail captured from Source Picture"
+msgstr "Miniatura capturada da Foto da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Thumbnail.js:73
+msgid "Thumbnail inside Destination Picture"
+msgstr "Miniatura dentro da Foto de Destino"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:32
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:32
+msgid "From"
+msgstr "De"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:40
+msgid "To"
+msgstr "Para"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:42
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:49
+msgid "Only keep pictures between:"
+msgstr "Apenas manter fotos entre:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:62
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:62
+msgid "Minimum interval between two pictures:"
+msgstr "Intervalo Mínimo entre duas fotos:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:82
+msgid "Move pictures to:"
+msgstr "Mover fotos para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:99
+msgid "Send an email once completed"
+msgstr "Enviar um "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:105
+msgid "Start processing"
+msgstr "Iniciar processo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:120
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:112
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:112
+msgid "Disabled"
+msgstr "Desativado "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:121
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:113
+msgid "As Soon As Possible"
+msgstr "O Mais Breve Possível"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/postprodvideos/Prepare.js:122
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:114
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:114
+msgid "At 4:00 am"
+msgstr "Às 4:00"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:44
+msgid "Host"
+msgstr "Anfitrião "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:65
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:65
+msgid "Directory"
+msgstr "Diretório"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/FTPServersList.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/FTPServersList.js:30
+msgid "Active"
+msgstr "Ativo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:22
+msgid "Add a FTP Server"
+msgstr "Adicionar um Servidor FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:36
+msgid "Server Name (Description)"
+msgstr "Nome do servidor (Descrição)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ftpservers/AddFTPServer.js:70
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ftpservers/AddFTPServer.js:70
+msgid "Active Mode"
+msgstr "Modo Ativo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/WatermarkFile.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/WatermarkFile.js:22
+msgid "Watermark File"
+msgstr "Arquivo marca da agua"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Hotlink.js:27
+msgid "Hotlink 1 size"
+msgstr "Tamanho Hotlink 1"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Hotlink.js:33
+msgid "Hotlink 2 size"
+msgstr "Tamanho Hotlink 2"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Hotlink.js:39
+msgid "Hotlink 3 size"
+msgstr "Tamanho Hotlink 3"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Hotlink.js:45
+msgid "Hotlink 4 size"
+msgstr "Tamanho Hotlink 4"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Hotlink.js:53
+msgid "Generate hotlink image in case of capture error"
+msgstr "Gerar imagem hotlink em caso de erro de captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/FTP.js:26
+msgid "Send pictures to:"
+msgstr "Enviar fotos para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:35
+msgid "Send pictures to (copy):"
+msgstr "Enviar fotos para (cópia):"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/FTP.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/FTP.js:35
+msgid "Send hotlink pictures to:"
+msgstr "Enviar as fotos hotlink para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/TextFont.js:22
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/TextFont.js:22
+msgid "Text font"
+msgstr "Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Crop.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Crop.js:26
+msgid "Crop pictures"
+msgstr "Cortar imagens"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Crop.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Crop.js:37
+msgid "Size of the area"
+msgstr "Tamanho da Área"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:29
+msgid "Save pictures into archives"
+msgstr "Salvar fotos para arquivos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:30
+msgid "Warning, if pictures are not saved it will not be possible to generate videos."
+msgstr "Atenção, se as fotos não estão salvas, não será possível gerar vídeos."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:36
+msgid "Resize pictures before saving"
+msgstr "Redimensionar fotos antes de salvar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:43
+msgid "Minimum single picture size"
+msgstr "Tamanho mínimo de uma imagem"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:51
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:51
+msgid "Delete pictures after (days, 0 = no limit)"
+msgstr "Excluír fotos após (dias, 0 = sem limite)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/pictures/Archive.js:58
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Archive.js:58
+msgid "Maximum archive size (Mbytes, 0 = no limit)"
+msgstr "Tamanho máximo do arquivo (Mbytes, 0 = sem limite)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/Email.js:27
+msgid "Send email to"
+msgstr "Enviar email para"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:33
+msgid "Send email to (CC)"
+msgstr "Enviar email para (CC)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:39
+msgid "Send email from (source email)"
+msgstr "Enviar email de (email de fonte)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/Email.js:38
+msgid "Number of failure before sending email:"
+msgstr "Número de falha antes de enviar o email:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:46
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/Email.js:40
+msgid "send a reminder every:"
+msgstr "Enviar um lembrete todos:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:48
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/Email.js:42
+msgid "failures (0 = never)"
+msgstr "Falhas (0 = nunca)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:57
+msgid "Always notify when source is back"
+msgstr "Sempre notificar quando a fonte está de volta"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Email.js:58
+msgid "Send email when source comes back even if number of failure was low."
+msgstr "Enviar email quando a fonte voltar mesmo que o número de falhas foi baixo."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:29
+msgid "Powercycle camera in case of failure"
+msgstr "Reiniciar camera em caso de falha"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:36
+msgid "Number of failure before camera powercycle"
+msgstr "Número de falha antes que a camera reinicie"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:43
+msgid "Phidget camera port"
+msgstr "Porta da camera Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:51
+msgid "Generate Phidget sensor graph"
+msgstr "Gerar um sensor gráfico Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/advanced/Phidget.js:56
+msgid "Send sensor to:"
+msgstr "Enviar sensor para:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:22
+msgid "Manage Webcampak Sources settings"
+msgstr "Gerenciar "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/PermissionsWindow.js:57
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ConfigMenus.js:71
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:38
+msgid "Sources"
+msgstr "Fontes"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:54
+msgid "Configuration of source ID: Name"
+msgstr "Configuração da fonte ID: Nome"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:64
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Capture.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Capture.js:43
+msgid "Capture"
+msgstr "Capturar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:130
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:186
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:253
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:320
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:395
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:69
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:75
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:165
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:222
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:279
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:51
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:97
+msgid "Save"
+msgstr "Salvar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:61
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:135
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:191
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:258
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:325
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:400
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:80
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:118
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:170
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:227
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:284
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:56
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:102
+msgid "Reset Form"
+msgstr "Reiniciar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:68
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:87
+msgid "Source configuration"
+msgstr "Configuração da fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:72
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:91
+msgid "Capture calendar"
+msgstr "Calendário de captura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:79
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:96
+msgid "Instant Capture"
+msgstr "Captura Instantanea"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:85
+msgid "Configuration of \"<u>Compact or DSLR USB Camera (Gphoto2 PTP mode)</u>\""
+msgstr "Configuração de \"<u>Compact ou Reflex USB (Gphoto2 PTP mode)</u>\""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:91
+msgid "Configuration of \"<u>USB Webcam</u>\""
+msgstr "Configuração de \"<u>Webcam USB</u>\""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:97
+msgid "Configuration of \"<u>IP Camera (FTP) / Webcampak</u>\""
+msgstr "Configuração de \"<u>Camera IP (FTP) / Webcampak</u>\""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:103
+msgid "Configuration of \"<u>Internet Picture</u>\" or \"<u>Video Streaming</u>\""
+msgstr "Configuração de \"<u>Image Internet</u>\" ou \"<u>Streaming Vidéo</u>\""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:110
+msgid "Configuration of \"<u>Sensor (Phidget)</u>\""
+msgstr "Configuração de \"<u>Capteur Phidget</u>\""
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:142
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:125
+msgid "Crop picture"
+msgstr "Cortar foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:148
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:215
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:282
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:368
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:131
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:188
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:245
+msgid "Insert Watermark"
+msgstr "Inserir marca da agua"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:154
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:137
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:193
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:250
+msgid "Insert Text"
+msgstr "Inserir um Texto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:160
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:143
+msgid "Static pictures (hotlink)"
+msgstr "Fotos estáticas (hotlink)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:165
+msgid "Archives"
+msgstr "Arquivos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:171
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:148
+msgid "Send pictures via FTP"
+msgstr "Enviar fotos via FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:198
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:177
+msgid "Daily video creation"
+msgstr "Criação de vídeos diários"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:203
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:270
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:182
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:239
+msgid "Advanced video settings"
+msgstr "Configurações de vídeo avançada"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:220
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:287
+msgid "Pre-processing manipulations (advanced)"
+msgstr "Manipulaçoes pré-processamento (avançado)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:226
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:293
+msgid "Add an audio file"
+msgstr "Adicionar um arquivo de áudio"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:232
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:299
+msgid "Upload to youtube"
+msgstr "Descarregar para Youtube"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:238
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:205
+msgid "Send videos via FTP"
+msgstr "Enviar vídeos via FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:244
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:211
+msgid "Custom Vids."
+msgstr "Vídeos Personalizados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:265
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:234
+msgid "Video settings"
+msgstr "Definições de vídeo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:305
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:262
+msgid "Create a custom video"
+msgstr "Criar um vídeo personalizado"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:311
+msgid "Post-prod Vids."
+msgstr "Vídeos Post-prod"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:338
+msgid "Zone selection within source picture (Crop)"
+msgstr "Seleção de Zonas dentro da foto da fonte (Cortada)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:344
+msgid "Activate transition (from Crop selection)"
+msgstr "Ativar transição (da seleção de corte)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:350
+msgid "Resize Pictures"
+msgstr "Redimensionar fotos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:356
+msgid "Add an effect"
+msgstr "Adicionar um efeito"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:362
+msgid "Insert a Thumbnail"
+msgstr "Adicionar uma miniatura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:374
+msgid "Insert a legend"
+msgstr "Adicionar uma legenda"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:380
+msgid "Prepare Post-Prod pictures"
+msgstr "Preparar as imagens Post-Prod"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:386
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:268
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Advanced.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemGeneral.js:41
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemEmail.js:42
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Advanced.js:43
+msgid "Advanced"
+msgstr "Avançado"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:407
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:291
+msgid "Configuration of local FTP account"
+msgstr "Configuração da conta local FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:412
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:296
+msgid "Emails"
+msgstr "Emails"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:417
+msgid "Phidget board"
+msgstr "Quadro Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:423
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:302
+msgid "FTP Servers"
+msgstr "Servidores FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:432
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:313
+msgid "Add FTP Server"
+msgstr "Adicionar um servidor FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/ConfigurationWindow.js:437
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:318
+msgid "Delete FTP Server"
+msgstr "Excluír um servidor FTP"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:28
+msgid "Filename"
+msgstr "Nome do arquivo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:91
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:91
+msgid "Send an email once creation completed"
+msgstr "Enviar um email, uma vez concluída a criação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/customvideos/Create.js:97
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/customvideos/Create.js:97
+msgid "Start creation"
+msgstr "Iniciar a criação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/configuration/SourcesList.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserAvailableSources.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourcesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/SourcesList.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/SourcesList.js:27
+msgid "Source ID"
+msgstr "ID Source"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:23
+msgid "Webcampak"
+msgstr "Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:37
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:40
+msgid "Display a slideshow of the latest picture capture by each source. Slideshow refreshed every 5 minutes"
+msgstr "Exibir uma apresentação de slides com a captura de imagem mais recente de cada fonte. Slideshow atualizado a cada 5 minutos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:47
+msgid "Statistics & Reports"
+msgstr "Estatísticas & Relatórios"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:53
+msgid "Number of pictures per source"
+msgstr "Número de fortos por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:58
+msgid "Size of pictures per source"
+msgstr "Tamanho das fotos por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:63
+msgid "Disk usage per source"
+msgstr "Uso do disco por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:68
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:27
+msgid "System Stats"
+msgstr "Estatísticas do Sistema"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:75
+msgid "Configuration"
+msgstr "Configuração"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:81
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ConfigMenus.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:35
+msgid "Cloud Users"
+msgstr "Usuários Cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:86
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ConfigMenus.js:39
+msgid "Cloud Config."
+msgstr "Conf. Cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/ConfigMenus.js:87
+msgid "Permissions"
+msgstr "Permissões"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:101
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:42
+msgid "General"
+msgstr "Geral"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:106
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:37
+msgid "Connected Devices"
+msgstr "Dispositivos Conectados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:113
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:36
+msgid "Logs"
+msgstr "Logs"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:118
+msgid "Reboot"
+msgstr "Reinicializar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:124
+msgid "Reboot Webcampak"
+msgstr "Reinicializar Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:130
+msgid "Documentation"
+msgstr "Documentação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:133
+msgid "Link to Webcampak documentation, available in English & French"
+msgstr "Link para documentação do Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:135
+msgid "Blog"
+msgstr "Blog"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:138
+msgid "Link to Webcampak.com blog"
+msgstr "Link para blog Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:140
+msgid "About"
+msgstr "Sobre"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:143
+msgid "Link to Webcampak.com website"
+msgstr "Link para site Webcampak.com"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/toolbar/Menu.js:145
+msgid "Log Out"
+msgstr "Desconectar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:31
+msgid "Available Sources"
+msgstr "Fontes Disponíveis"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:63
+msgid "Manage source members"
+msgstr "Gerenciar membros da fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:72
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:72
+msgid "Webcampak users"
+msgstr "Usuários Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:89
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:79
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:89
+msgid "Tip:"
+msgstr "Dica:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:78
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:78
+msgid "Drag users to the right grid to add them to members list"
+msgstr "Arrastar usuários para a grade direita para adicionálos à lista de membros"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:83
+msgid "Members of the source"
+msgstr "Membros da fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/SourcesWindow.js:89
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:89
+msgid "Drag users to the left grid to remove them from members list"
+msgstr "Arrastar usuários para a grade esquerda para removê-los da lista de membros"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:60
+msgid "Select a user in the list above"
+msgstr "Selecione um usuário na lista acima"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:71
+msgid "Webcampak sources"
+msgstr "Fontes Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:79
+msgid "Drag sources to the right grid to add them to granted list"
+msgstr "Arraste fontes para a grade direita para adicioná-los à lista"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:85
+msgid "Access granted to the following sources"
+msgstr "Acesso concedido para as seguintes fontes"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/UsersWindow.js:93
+msgid "Drag sources to the left grid to remove them from granted list"
+msgstr "Arrastar fontes para a grade esquerda para removê-los da lista"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/CompaniesList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupPages.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupsList.js:28
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailableUsers.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailablePages.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupMembers.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserAvailableSources.js:34
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceAvailableUsers.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceMembers.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourcesList.js:28
+msgid "ID #"
+msgstr "ID #"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupPages.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailableUsers.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupAvailablePages.js:26
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupMembers.js:24
+msgid "Drag users to add them to the group"
+msgstr "Arrastar usuários para adicioná-los ao grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/GroupPages.js:37
+msgid "name"
+msgstr "nome"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/groups/AddGroup.js:22
+msgid "Add a Group"
+msgstr "Adicionar um Grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserAvailableSources.js:25
+msgid "Drag sources to add them to the user"
+msgstr "Arrastar fontes para adicioná-los para o usuário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:39
+msgid "Permission"
+msgstr "Permissão"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:53
+msgid "Read-Only"
+msgstr "Somente Leitura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/UserSources.js:54
+msgid "Read-Write"
+msgstr "Leitura-Escritura"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/users/AddUser.js:22
+msgid "Add a User"
+msgstr "Adicionar um Usuário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:22
+msgid "Add a Source"
+msgstr "Adicionar uma Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/AddSource.js:47
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourcesList.js:30
+msgid "Weight"
+msgstr "Prioridade"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceAvailableUsers.js:25
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/sources/SourceMembers.js:25
+msgid "Drag users to add them to the source"
+msgstr "Arrastar usuários para adicioná-los à fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/PermissionsWindow.js:28
+msgid "Manage Permissions & interface settings"
+msgstr "Gerenciar permissões & definições de interface"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/PermissionsWindow.js:40
+msgid "Users"
+msgstr "Usuários"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/PermissionsWindow.js:45
+msgid "Groups"
+msgstr "Grupos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/PermissionsWindow.js:52
+msgid "Companies"
+msgstr "Empresas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/AddCompany.js:22
+msgid "Add a Company"
+msgstr "Adicionar uma Empresa"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:31
+msgid "Available Groups"
+msgstr "Grupos Disponíveis"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:63
+msgid "Manage group members"
+msgstr "Gerenciar membros do grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:83
+msgid "Members of the group"
+msgstr "Membros do grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:95
+msgid "Manage page access for group members"
+msgstr "Gerenciar página para membros do grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:104
+msgid "Webcampak pages"
+msgstr "Páginas Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/permissions/GroupsWindow.js:125
+msgid "Access allowed"
+msgstr "Acesso Autorizado"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:22
+msgid "Comment a picture"
+msgstr "Comentar uma foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Picture.js:43
+msgid "Picture"
+msgstr "Foto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:52
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:62
+msgid "Message text"
+msgstr "Mensagem de texto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/InsertCommentWindow.js:81
+msgid "Delete Comment"
+msgstr "Excluír Comentário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:24
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:24
+msgid "Webcampak Pictures"
+msgstr "Fotos Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:146
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:93
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureInsertComment.js:43
+msgid "Comment"
+msgstr "Comentário"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:104
+msgid "Previous"
+msgstr "Anterior"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow-20120831.js:114
+msgid "Next"
+msgstr "Próximo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:79
+msgid "Optimize"
+msgstr "Otimizar"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/PicturesWindow.js:107
+msgid "Sensors"
+msgstr "Sensores"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:22
+msgid "Send Picture by email"
+msgstr "Enviar foto por email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:45
+msgid "Send To"
+msgstr "Enviar para"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:50
+msgid "Subject"
+msgstr "Assunto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SendEmailWindow.js:79
+msgid "Send Email"
+msgstr "Enviar email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/SensorsWindow.js:22
+msgid "Source Sensors"
+msgstr "Sensores da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:45
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:202
+msgid "12:10"
+msgstr "12:10"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:71
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:228
+msgid "12:20"
+msgstr "12:20"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:96
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:246
+msgid "12:30"
+msgstr "12:30"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:121
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:264
+msgid "12:40"
+msgstr "12:40"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:146
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:282
+msgid "12:50"
+msgstr "12:50"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:171
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/pictures/Thumbnails.js:300
+msgid "13:00"
+msgstr "13:00"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFilesWindow.js:28
+msgid "Graph: Number of pictures per sources per day"
+msgstr "Gráfico: Número de fotos por fonte por dia"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFilesWindow.js:31
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizesWindow.js:31
+msgid "Save Chart"
+msgstr "Salvar Gráfico"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFilesWindow.js:34
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:33
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:30
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizesWindow.js:34
+msgid "Reload Data"
+msgstr "Recarregar Dados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcePictureFiles.js:64
+msgid "pictures in"
+msgstr "Fotos em"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturefiles/SourcesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourcesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcesList.js:29
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/SourcesList.js:29
+msgid "Select another source..."
+msgstr "Selecionar outra fonte..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsage.js:30
+msgid "Disk Usage (MB)"
+msgstr "Uso do Disco (MB)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsage.js:46
+msgid "SourceName"
+msgstr "Nome da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:27
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourceDiskUsage.js:105
+msgid "Graph: Disk usage per source"
+msgstr "Gráfico: Uso do disco por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:33
+msgid "Range"
+msgstr "Alcance"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:48
+msgid "Day"
+msgstr "Dia"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:49
+msgid "Month"
+msgstr "Mês"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcediskusage/SourceDiskUsageWindow.js:55
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsWindow.js:50
+msgid "Year"
+msgstr "Ano"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsBandwidth.js:30
+msgid "Bandwidth (Kb/s)"
+msgstr "Largura de Banda (Kb/s)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsDisk.js:30
+msgid "Hard Disk (MB)"
+msgstr "Disco Rígido (MB)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsCPU.js:30
+msgid "CPU (%)"
+msgstr "CPU (%)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/systemstats/SystemStatsMemory.js:30
+msgid "Memory (%)"
+msgstr "Memória (%)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizes.js:27
+msgid "Size (MB)"
+msgstr "Tamanho (Mo)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizes.js:63
+msgid "MB of pictures in"
+msgstr "MB de fotos em"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/dashboard/sourcepicturesizes/SourcePictureSizesWindow.js:28
+msgid "Graph: Size of pictures per sources per day"
+msgstr "Gráfico: Tamanho das fotos por fonte por dia"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/capture/InstantCapture.js:24
+msgid "instant capture is likely to interfere with regular capture. Only use it during configuration phases"
+msgstr "captura instantânea é suscetível de interferir com a captura regular. Usá-lo apenas durante as fases de configuração"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Hotlink.js:27
+msgid "Hotlink Small size (i.e. 320x240)"
+msgstr "Hotlink Tamanho Pequeno (par exemple 320x240)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Hotlink.js:33
+msgid "Hotlink Medium size (i.e. 640x480)"
+msgstr "Hotlink Tamanho Médio (par exemple 320x240)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/pictures/Hotlink.js:39
+msgid "Hotlink Large size (i.e. 1920x1080)"
+msgstr "Hotlink Tamanho Grande (ex: 1920x1080)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/advanced/Email.js:33
+msgid "Send email from (Reply-To)"
+msgstr "Enviar um email de (Responder-Para)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:22
+msgid "Configure your cloud settings"
+msgstr "Configurar suas definicões cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:59
+msgid "Your current permissions (Read-Only) do not allow you to update configuration"
+msgstr "Suas permissões atuais (Somente Leitura) não o permite atualizar configuração"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:199
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/cloudconfiguration/ConfigurationWindow.js:256
+msgid "Insert Soundtrack"
+msgstr "Inserir Trilha sonora"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:22
+msgid "Webcampak Logs"
+msgstr "Logs Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:44
+msgid "Log of source ID: Name"
+msgstr "Nome da Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:47
+msgid "Capture Logs"
+msgstr "Capturar logs"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:63
+msgid "Daily Video logs"
+msgstr "Registro Diário de Vídeo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:79
+msgid "Custom Video Logs"
+msgstr "Registro de Vídeos Personalizados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:95
+msgid "Post-prod logs"
+msgstr "Logs Post-Prod"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/log/LogWindow.js:111
+msgid "Latest configuration changes"
+msgstr "Últimas mudanças nas configurações"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:32
+msgid "Permissions Conf."
+msgstr "Permissões Conf."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:33
+msgid "Sources Conf."
+msgstr "Fontes Conf."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:34
+msgid "Cloud Configuration"
+msgstr "Configuração Cloud"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:38
+msgid "System Conf."
+msgstr "Conf. Sistema"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:39
+msgid "Stats: Number of pictures per source"
+msgstr "Gráfico: Número de fotos por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:40
+msgid "Stats: Size of pictures per source"
+msgstr "Gráfico: Tmanaho das fotos por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:41
+msgid "Stats: Disk Usage per source"
+msgstr "Gráfico: Uso por fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/TopToolbar.js:42
+msgid "Stats: System"
+msgstr "Gráfico: Sistema"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Network.js:26
+msgid "Main network interface:"
+msgstr "Interface principal de rede:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Statistics.js:27
+msgid "Enable statistics collection"
+msgstr "Permitir a coleta de estatísticas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Phidget.js:27
+msgid "Enable Phidget board"
+msgstr "Ativar quadro Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Gphoto.js:27
+msgid "Lookup for camera automatically"
+msgstr "Pesquisar por camera automaticamente"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Gphoto.js:31
+msgid "Type of DSLR cameras"
+msgstr "Tipo de cameras DSLR"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Gphoto.js:46
+msgid "Different DSLR cameras"
+msgstr "Cameras DSLR diferentes"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/general/Gphoto.js:47
+msgid "Identical DSL cameras"
+msgstr "Cameras DSL idênticas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:26
+msgid "Send a copy of all emails to (BCC)"
+msgstr "Enviar uma cópia de todos os emails para (BCC)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:32
+msgid "Send emails from (email address)"
+msgstr "Enviar emails de (endereço de email)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:38
+msgid "Reply-to email"
+msgstr "Responder-para email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:42
+msgid "Outgoing email server"
+msgstr "Envio de emails"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:47
+msgid "SMTP Server:"
+msgstr "Servidor SMTP:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:49
+msgid "Port:"
+msgstr "Porta:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:59
+msgid "SMTP Start TTLS"
+msgstr "SMTP Iniciar TTLS"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:67
+msgid "SMTP Auth"
+msgstr "SMTP Autenticação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:73
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/email/Email.js:79
+msgid "SMTP Auth Username"
+msgstr "SMTP Autenticação de Usuário."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:22
+msgid "Configure Webcampak system settings"
+msgstr "Configurar definições de sistema Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:63
+msgid "Network"
+msgstr "Rede"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:71
+msgid "Gphoto"
+msgstr "Gphoto"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:75
+msgid "Global FTP accound (resources)"
+msgstr "Contal FTP Global (recursos)"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:79
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:83
+msgid "Phidget"
+msgstr "Phidget"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/view/systemconfiguration/ConfigurationWindow.js:109
+msgid "Email Configuration"
+msgstr "Configuração de email"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/Menu.js:476
+msgid "Reboot Webcampak ?"
+msgstr "Reinicializar Webcampak ?"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/Menu.js:477
+msgid "You are about to reboot Webcampak, it will take +/- 1mnm. Proceed ?"
+msgstr "Você está prestes a reinicializar Webcampak, isto levará +/- 1mnm. Continuar ?"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/cloud/CloudConfiguration.js:164
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/configuration/Configuration.js:196
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/pictures/Pictures.js:509
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/pictures/Pictures.js:512
+msgid "Webcampak Picture"
+msgstr "Image Webcampak"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/cloud/CloudConfiguration.js:395
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/configuration/Configuration.js:570
+msgid "Configuration of"
+msgstr "Configuração de "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/cloud/CloudConfiguration.js:463
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/cloud/CloudUsers.js:164
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/configuration/Configuration.js:642
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:179
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:218
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Companies.js:77
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Sources.js:149
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Users.js:169
+msgid "You are deleting a record permanently, this cannot be undone. Proceed ?"
+msgstr "Você está excluíndo um registro permanentemente, você não poderá recuperá-lo. Continuar ?"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/cloud/CloudUsers.js:163
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:178
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:217
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Sources.js:148
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Users.js:168
+msgid "Delete Record ?"
+msgstr "Excluir Registro ?"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:163
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Sources.js:133
+msgid "Manage members of"
+msgstr "Gerenciar membros de"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:163
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:164
+msgid "group"
+msgstr "Grupo"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Groups.js:164
+msgid "Manage pages access for"
+msgstr "Gerenciar acessos de páginas para"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Sources.js:133
+msgid "source"
+msgstr "Fonte"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/permissions/Users.js:153
+msgid "Manage sources for"
+msgstr "Gerenciar fontes para"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/pictures/Pictures.js:485
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/pictures/Pictures.js:488
+msgid "Webcampak Zoom"
+msgstr "Webcampak Zoom"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourcePictureSizes.js:129
+msgid "of pictures in"
+msgstr "de imagens em"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourcePictureSizes.js:144
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourceDiskUsage.js:124
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourcePictureFiles.js:104
+msgid "Confirm Download"
+msgstr "Confirmar Download"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourcePictureSizes.js:144
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourceDiskUsage.js:124
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/dashboard/SourcePictureFiles.js:104
+msgid "Would you like to download the chart as an image?"
+msgstr "Voce gostaria de fazer o download da carta como uma imagem?"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/controller/log/Log.js:160
+msgid "Log of"
+msgstr "Log de"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/connecteddevices/ConnectedDevices.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/videos/VideosList.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/videos/ViewVideo.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloud/Users.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Timezone.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Advanced.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/WatermarkFile.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/FTPServer.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/TextFont.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PhidgetSensor.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Picture.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Capture.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/CameraPort.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PostprodVideo.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/CustomVideo.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Phidget.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Video.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/WebcamPort.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/Companies.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupPages.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailableUsers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/Groups.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailablePages.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupMembers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/Users.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserSources.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserAvailableSources.js:40
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/sources/SourceAvailableUsers.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/sources/Sources.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/sources/SourceMembers.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/ViewPicture.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureSendEmail.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/HoursList.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureInsertComment.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/Sensor.js:38
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemGeneral.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemEmail.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/UserAuthorizations.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/dashboard/SourcePictureSizes.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/dashboard/SourceDiskUsage.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/dashboard/SystemStats.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/dashboard/SourcePictureFiles.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Timezone.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Advanced.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/WatermarkFile.js:36
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/FTPServer.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/TextFont.js:35
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Picture.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Capture.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/CustomVideo.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Video.js:37
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/log/LogFile.js:36
+msgid "Please wait, loading content..."
+msgstr "Aguarde por favor, carregando conteúdo..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloud/Users.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/FTPServer.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PhidgetSensor.js:49
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Phidget.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/FTPServer.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Picture.js:53
+msgid "Destroyed"
+msgstr "Destruído"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloud/Users.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/Users.js:53
+msgid "User:"
+msgstr "Usuário:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Advanced.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Picture.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Capture.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PostprodVideo.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/CustomVideo.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Video.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemGeneral.js:41
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/system/SystemEmail.js:42
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Advanced.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Capture.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/CustomVideo.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Video.js:43
+msgid "Configuration successfully updated"
+msgstr "Configuração atualizada com sucesso"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/FTPServer.js:54
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/FTPServer.js:54
+msgid "Server:"
+msgstr "Servidor:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PhidgetSensor.js:53
+msgid "Phidget Sensor:"
+msgstr "Sensor Phidget:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/InstantCapture.js:36
+msgid "Please wait, capturing picture ..."
+msgstr "Aguarde por favor, capturando foto ..."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/InstantCapture.js:36
+msgid "Please note that there is a static delay of 10s before picture is taken"
+msgstr "Por favor, note que há um atraso de 10s antes que a foto seja tirada"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/PostprodVideo.js:43
+msgid "Post-Prod Video"
+msgstr "Vídeos Post-Prod. "
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/CustomVideo.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/CustomVideo.js:43
+msgid "Custom Video"
+msgstr "Vídeos personalizados"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Phidget.js:54
+msgid "Phidget:"
+msgstr "Phidget:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/configuration/Video.js:43
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/cloudconfiguration/Video.js:43
+msgid "Video"
+msgstr "Vídeos"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/Companies.js:54
+msgid "Company:"
+msgstr "Empresa"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupPages.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailableUsers.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailablePages.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupMembers.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserSources.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserAvailableSources.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/sources/SourceMembers.js:44
+msgid "Information Message"
+msgstr "Mensagem de Informação"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupPages.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailableUsers.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupAvailablePages.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/GroupMembers.js:44
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserSources.js:50
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/users/UserAvailableSources.js:53
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/sources/SourceMembers.js:44
+msgid "Operation successful"
+msgstr "Operação feita com sucesso"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/permissions/groups/Groups.js:54
+msgid "Group:"
+msgstr "Grupo:"
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureSendEmail.js:43
+msgid "Email successfully sent."
+msgstr "Email enviado com sucesso."
+
+#: /home/fanfoue/Bureau/Webcampak/Releases/webcampak2/www/interface/dev/app/store/pictures/PictureInsertComment.js:43
+msgid "Comment successfully inserted"
+msgstr "Comentário inserido com sucesso"
+
+#~ msgid "Loading video ..."
+#~ msgstr "Chargement vidéo"
+
+#~ msgid "Range (Day, Month, Year)"
+#~ msgstr "Plage (Jour, Mois, Année)"
+
+#~ msgid "Misc"
+#~ msgstr "Divers"
+
+#~ msgid "FTP Servers Conf."
+#~ msgstr "Conf. FTP Serveurs"
+
+#~ msgid "General Conf."
+#~ msgstr "Conf. Générale"
+
+#~ msgid "Pictures Stat."
+#~ msgstr "Stat. Photos"
+
+#~ msgid "Disk Usage Stat."
+#~ msgstr "Stat. Utilisation disque"
+
+#~ msgid "Misc Stat."
+#~ msgstr "Stat. Divers"
+
+#~ msgid "Number of Pictures"
+#~ msgstr "Nombre d'images"

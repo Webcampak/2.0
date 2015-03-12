@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<?php
+	require('/home/webcampak/webcampak/etc/interface.config.php');
+	require('/home/webcampak/webcampak/www/interface/remote/lib/log.php');		
+	require('/home/webcampak/webcampak/www/interface/remote/lib/authorization/authorizations.php');	
+	require('/home/webcampak/webcampak/www/interface/remote/lib/database/users.php');	
+	$dbusers = new UsersDB();
+	if (isset($_GET['lang'])) {
+		$userAuth = new Authorizations();
+		if ($userAuth->isAllowedToAccessPage("auth.base.lang") == true) {
+			if (strip_tags($_GET['lang']) == "en") {
+				Log::debug("Log: /index.html - Changing language to English");	
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "en");	
+			} else if (strip_tags($_GET['lang']) == "fr") {
+				Log::debug("Log: /index.html - Changing language to French");		
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "fr");	
+			} else if (strip_tags($_GET['lang']) == "pt") {
+				Log::debug("Log: /index.html - Changing language to Portuguese");		
+				$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));				
+				$dbusers->updateLanguage($userid, "pt");					
+			} 
+		}
+	}
+
+?>
+<html manifest="" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Webcampak Mobile</title>
+	<script>console.log('Log: index.html loading ...');</script>
+	<script type="text/javascript" src="/interface/lib/dateformat/date.format.js"></script>		
+	<script type="text/javascript" src="/interface/lib/jed/jed.js"></script>
+	<?php
+		$userid = $dbusers->getUsersId(strip_tags($_SERVER['PHP_AUTH_USER']), strip_tags($_SERVER['PHP_AUTH_PW']));	
+		$dblang = $dbusers->getLanguage($userid);	
+		if ($dblang == "en") {
+			$lang = "en_GB.utf8";
+		} elseif ($dblang == "fr") {
+			$lang = "fr_FR.utf8";
+		} elseif ($dblang == "pt") {
+			$lang = "pt_BR.utf8";							
+		} else {
+			$lang = "en_GB.utf8";		
+		}
+	?>
+	<script>var json_locale_data = {"": {"Content-Type":" text/plain; charset=UTF-8"},"Empty":[null,"Empty"]};</script>	
+	<script language="javascript" src="/locale/<?php echo $lang; ?>/LC_MESSAGES/webcampak-mobile.json"></script>
+	<script>
+		var i18n = new Jed({locale_data : {"messages" : json_locale_data},"domain" : "messages"});
+//		var i18n = "";
+		console.log('Log: index.html: i18n loaded');
+	</script>     
+	<style type="text/css">
+		/**
+			* Example of an initial loading indicator.
+			* It is recommended to keep this as minimal as possible to provide instant feedback
+			* while other resources are still being loaded for the first time
+		*/
+		html, body {
+			height: 100%;
+			background-color: #1985D0
+		}
+
+		#appLoadingIndicator {
+			position: absolute;
+			top: 50%;
+			margin-top: -15px;
+			text-align: center;
+			width: 100%;
+			height: 30px;
+			-webkit-animation-name: appLoadingIndicator;
+			-webkit-animation-duration: 0.5s;
+			-webkit-animation-iteration-count: infinite;
+			-webkit-animation-direction: linear;
+		}
+
+		#appLoadingIndicator > * {
+			background-color: #FFFFFF;
+			display: inline-block;
+			height: 30px;
+			-webkit-border-radius: 15px;
+			margin: 0 5px;
+			width: 30px;
+			opacity: 0.8;
+		}
+
+		@-webkit-keyframes appLoadingIndicator{
+			0% {
+				opacity: 0.8
+			}
+			50% {
+				opacity: 0
+			}
+			100% {
+				opacity: 0.8
+			}
+		}
+	</style>
+	<!-- The line below must be kept intact for Sencha Command to build your application -->
+	<script type="text/javascript">(function(h){function f(c,d){document.write('<meta name="'+c+'" content="'+d+'">')}if("undefined"===typeof g)var g=h.Ext={};g.blink=function(c){var d=c.js||[],c=c.css||[],b,e,a;f("viewport","width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no");f("apple-mobile-web-app-capable","yes");f("apple-touch-fullscreen","yes");b=0;for(e=c.length;b<e;b++)a=c[b],"string"!=typeof a&&(a=a.path),document.write('<link rel="stylesheet" href="'+a+'">');b=0;for(e=d.length;b<
+e;b++)a=d[b],"string"!=typeof a&&(a=a.path),document.write('<script src="'+a+'"><\/script>')}})(this);;Ext.blink({"id":"5a3f1b80-fa92-11e1-94c5-3d80b54d0a50","js":[{"path":"app.js","bundle":true,"update":"delta","type":"js"}],"css":[{"path":"webcampak.css","type":"css"},{"path":"resources/css/app.css","update":"delta","type":"css"}]})</script>
+</head>
+<body>
+	<div id="appLoadingIndicator">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+</body>
+</html>

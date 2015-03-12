@@ -1,0 +1,4 @@
+# m h  dom mon dow   command
+*/5 * * * * python /home/tmpusername/webcampak/bin/wpak-gatherstats.py -g /home/tmpusername/webcampak/etc/config-general.cfg
+
+

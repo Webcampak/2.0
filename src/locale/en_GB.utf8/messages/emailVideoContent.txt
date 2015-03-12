@@ -1,0 +1,10 @@
+Hello,
+
+You are receiving this email because Webcampak completed processing of your custom video.
+
+You can access this video using Webcampak interface or via FTP in /videos/ directory of the source.
+
+Thanks
+
+Your Webcampak
+
