@@ -1,5 +1,4 @@
-Introduction:
-=============
+##Introduction:
 This software has been created to assist people in capturing pictures over a long period of time by creating an "appliance" with a set of pre-configured softwares and scripts.
 More details are available on sourceforge http://sourceforge.net/projects/webcampak/
 A full documentation is available at:
@@ -13,41 +12,36 @@ Installation of the software should provide you with an operational photography 
 It has been created to be installed on a dedicated device (although you should be able to run it on your everyday latop running Ubuntu desktop).
 By device it could be almost anything running Ubuntu Server (PC, laptop, PS3, nettop, embedded computer, ...).
 
-License:
-========
-# Webcampak is free software: you can redistribute it and/or modify it 
-# under the terms of the GNU General Public License as published by 
-# the Free Software Foundation, either version 3 of the License, 
-# or (at your option) any later version.
+##License:
+Webcampak is free software: you can redistribute it and/or modify it 
+under the terms of the GNU General Public License as published by 
+the Free Software Foundation, either version 3 of the License, 
+or (at your option) any later version.
 
-# Webcampak is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
-# without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-# See the GNU General Public License for more details (http://www.gnu.org/licenses/).
+Webcampak is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+See the GNU General Public License for more details (http://www.gnu.org/licenses/).
 
-Prerequisites:
-==============
+##Prerequisites:
 The following elements are necessary:
 - A dedicated computer (or any compatible device) running GNU/Linux Ubuntu Server 12.04 (Debian SID should work).
 - One or more sources (DSLR Camera, Compact Camera, Webcam, IP Camera ...).
 - An internet connection (not mandatory but useful for remote control).
 
-Target Usages:
-=============
+##Target Usages:
 - Remote capture/monitoring (i.e. Building site monitoring),
 - Capture pictures for Timelapse projects,
 - Regurlarly send pictures to Internet (behave like a "webcam"),
 - ...
 
-Installation:
-=============
+##Installation:
 - Install Ubuntu Server 12.04 with SSH Server and no extra packages
 - Download latest webcampak-v2.x-xxxxxxx.tar.gz file from Sourceforge
 - Untaf file: tar xfvz webcampak-v2.x-xxxxxxx.tar.gz
 - Execute the install script located in webcampak2/init/install/: bash ./webcampak2/init/install/install.Ubuntu12.04.sh
 - Follow script indications precisely
 
-Technical details:
-==================
+##Technical details:
 - Webcampak core system is started automatically by means of cron jobs (crontab).
 - Viewer and administration panel are using Apache2, PHP5, MySQL, Sencha Extjs Framework ...
 - Core Python software make use of Gphoto2, ImageMagick, Mencoder, ...
@@ -55,12 +49,10 @@ Technical details:
 - The system can be used with multiple sources running simultaneously.
 - Reliability and consistency has been a top priority during development. Configuration settings are stored within system files to avoid risk of issues related to MySQL database.
 
-Participate:
-============
+##Participate:
 If you want to participate in the project, join us at Sourceforge http://sourceforge.net/projects/webcampak/ or get in touch via www.webcampak.com
 
-To-Do List:
-============
+##To-Do List:
 List of features, functions or modifications to be implemented in coming version:
  - Interface: File management module (to ease deletion of pictures and videos)
  - Interface: Implement zoom and pan in graphs (stats) 
@@ -69,8 +61,7 @@ List of features, functions or modifications to be implemented in coming version
  - Core: User with an account about to expire will receive an email a few days before, account will be disabled two days after expiration (and another email will be sent), account & data will be automatically deleted X days after latest reminder
  
 
-Changelog:
-============
+##Changelog:
 v2.0-b94
  - Picture rotation
  - Other minor improvements 
